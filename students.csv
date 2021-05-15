@@ -1,0 +1,1754 @@
+id,stud.id,name,gender,age,format ,studies,score,salary
+1,200803,"Lang, Mackenzie",Female,22,online,Environmental Sciences,61,45254.10802
+2,354271,"Covar Orendain, Christopher",Male,23,online,Mathematics and Statistics,76,40552.79024
+3,317812,"Lopez, Monique",Female,20,online,Social Sciences,70,27007.03029
+4,350040,"Hines, Haileigh",Female,22,in-person,Biology,54,33969.15927
+5,763393,"Woolsey, Bronson",Male,24,online,Social Sciences,73,50617.64187
+6,411253,"Yang, Manuel",Male,23,in-person,Mathematics and Statistics,46,37391.87237
+7,835757,"Lujan, Malia",Female,22,online,Environmental Sciences,92,35598.88169
+8,902697,"Phan, Edeer",Male,19,online,Economics and Finance,75,39703.74488
+9,267025,"Brown, Nhan",Male,21,online,Mathematics and Statistics,58,30086.76481
+10,373120,"Livingston, Sarah",Female,44,in-person,Environmental Sciences,52,31494.32082
+11,201130,"Cebrun, Linda",Female,21,in-person,Social Sciences,75,32519.22408
+12,358005,"Eydi Shahroodi, Erik",Male,20,online,Political Science,63,42593.26038
+13,680483,"Truong, Patrick",Male,20,in-person,Environmental Sciences,73,60407.31727
+14,841076,"Pacheco, Cydney",Female,19,in-person,Political Science,81,49111.42749
+15,980136,"Munoz, Derrick",Male,24,online,Political Science,68,33068.84865
+16,253731,"Castillo, Anastasia",Female,24,online,Biology,75,37803.51321
+17,514389,"Picard, Brittney",Female,21,online,Mathematics and Statistics,77,35191.66276
+18,168184,"Briseno, Davie",Male,23,online,Social Sciences,87,39342.52267
+19,173174,"Butler, Courtney",Female,21,in-person,Economics and Finance,41,28128.37423
+20,336025,"Lobato, Allan",Male,21,online,Biology,91,36204.30096
+21,657755,"Cowans, Tylar",Male,22,online,Social Sciences,67,35881.20894
+22,856894,"Messenger, Amber",Female,21,online,Biology,63,39451.46699
+23,730300,"Nakarmi Dhital, Derek",Male,20,online,Social Sciences,54,20511.15096
+24,303723,"Ditzler, Jared",Male,21,online,Environmental Sciences,91,58080.50014
+25,159105,"Boone, Ishi",Male,22,in-person,Political Science,71,34190.67565
+26,131435,"Brown, Dmitriy",Male,23,in-person,Environmental Sciences,44,44027.96788
+27,420250,"Hall, Zachary",Male,18,online,Mathematics and Statistics,63,51564.03762
+28,734612,"Noy, Damian",Male,24,online,Economics and Finance,84,51222.99786
+29,931933,"Hoang, Christopher",Male,19,online,Environmental Sciences,77,49476.01035
+30,911287,"Rangel, Ahbreyonna",Female,23,in-person,Environmental Sciences,43,37809.76469
+31,587981,"Cordova, Stephen",Male,20,in-person,Political Science,89,56996.09438
+32,763933,"Lynn, Brandon",Male,22,in-person,Environmental Sciences,82,46242.93284
+33,807518,"Alkarim, Dwight",Male,20,in-person,Environmental Sciences,59,42064.67956
+34,548177,"Woodard, Aaron",Male,21,online,Political Science,94,41618.86097
+35,604302,"Tom, Samuel",Male,22,online,Biology,69,39037.89243
+36,564694,"Fernandes, Yasmeen",Female,22,online,Environmental Sciences,51,23717.3565
+37,356008,"Brink, Dominic",Male,18,online,Political Science,83,43332.83744
+38,595769,"O'Hearon, Rio",Female,19,in-person,Economics and Finance,77,39587.61419
+39,777815,"Diaz Daughtry, Jorge",Male,22,in-person,Environmental Sciences,72,64486.40644
+40,390559,"Daughtry, Emily",Female,19,online,Economics and Finance,83,45504.19175
+41,612668,"Martinez, Ruby",Female,20,in-person,Mathematics and Statistics,64,30611.50718
+42,728141,"Mcdonald, Ariana",Female,21,online,Social Sciences,86,39368.90364
+43,168476,"Young, Mikal",Male,22,in-person,Political Science,65,43379.77831
+44,601421,"Afalava, Luis",Male,24,online,Biology,70,40460.52043
+45,752528,"Magno, Sergio",Male,21,online,Economics and Finance,73,42062.54593
+46,192380,"Mcconnell, Keegan",Male,43,online,Environmental Sciences,92,41373.01415
+47,832270,"Clift, Navkirat",Male,21,online,Environmental Sciences,90,65013.0088
+48,770459,"Lish, Christian",Male,22,online,Economics and Finance,73,37668.89026
+49,194438,"Douglas, Daniel",Male,20,online,Mathematics and Statistics,51,35881.7362
+50,597357,"Atencio, Trysten",Female,22,online,Mathematics and Statistics,87,35816.24021
+51,892039,"Keyer, Brandon",Male,23,online,Political Science,74,38304.95905
+52,834001,"Omotosho, Alexis",Female,21,online,Economics and Finance,57,33726.58383
+53,661280,"Lamorie, Nancy",Female,20,online,Political Science,72,39403.4831
+54,694180,"Denning, Jonathan",Male,18,online,Environmental Sciences,93,64525.11155
+55,396355,"Rikke, Ja Von",Male,19,online,Environmental Sciences,78,37625.68727
+56,318277,"Swiney, Kesang",Female,20,online,Mathematics and Statistics,84,31982.90479
+57,701439,"Bajwa, Anthony",Male,25,online,Biology,75,37064.63282
+58,696684,"Dintaman, Muhammad",Male,20,in-person,Environmental Sciences,63,71467.89992
+59,530824,"Tan, Tristin",Male,22,in-person,Biology,86,58670.84946
+60,290462,"Spriggs, Christopher",Male,18,online,Biology,76,37691.92767
+61,932496,"Villalobos-Valdez, Denajae",Female,21,online,Mathematics and Statistics,41,37036.28314
+62,538530,"Moses, Jeffrey",Male,60,online,Political Science,49,39758.05095
+63,195524,"Chacon, Peter",Male,20,online,Biology,79,43101.36476
+64,308805,"Le, Mathew",Male,23,in-person,Social Sciences,90,59001.48731
+65,311317,"Zeng, Patrick",Male,19,online,Economics and Finance,50,21722.33876
+66,334855,"Houck, Patrick",Male,20,online,Social Sciences,81,56717.13858
+67,788765,"Lightfoot, Johnny",Male,22,online,Environmental Sciences,66,51518.15402
+68,944446,"Watchman, Aaron",Male,21,online,Environmental Sciences,65,55664.49541
+69,566236,"Lopez, Zhana",Female,21,online,Economics and Finance,73,43724.38626
+70,879277,"Lansing, Noah",Male,23,in-person,Biology,73,39862.09827
+71,561670,"Nwairo, Ivy",Female,20,online,Social Sciences,76,24297.1551
+72,327389,"Young Jackson, Mariah",Female,20,in-person,Environmental Sciences,88,40562.7449
+73,948224,"Favors, Tommy",Male,27,online,Economics and Finance,49,32704.01887
+74,206514,"Walck, Sam",Male,19,online,Mathematics and Statistics,81,49372.54091
+75,755701,"Bui, Kenny",Male,22,online,Social Sciences,80,49485.36939
+76,189369,"Miller, Jordan",Male,22,online,Political Science,43,33108.64524
+77,907903,"Chase, Surra",Male,39,online,Environmental Sciences,56,30375.19115
+78,157233,"Kim, Salvador",Male,20,online,Political Science,89,45926.40532
+79,741781,"Ung, Devin",Male,19,in-person,Social Sciences,63,49091.01011
+80,755108,"Kuch, Julio",Male,19,online,Social Sciences,91,48449.52772
+81,155776,"Vo, Shawn",Male,19,in-person,Economics and Finance,83,53178.73999
+82,591314,"Jones, Osue",Male,27,in-person,Economics and Finance,66,35065.14453
+83,632912,"Osuala, Collin",Male,22,online,Social Sciences,58,48190.83336
+84,409582,"Washington, Kelli",Female,20,online,Mathematics and Statistics,75,50790.13025
+85,413617,"Ortiz, Marcus",Male,21,online,Political Science,82,57164.60067
+86,229836,"Topaha, Isaiah",Male,55,online,Social Sciences,56,39239.56407
+87,412195,"Elwood, Everett",Male,21,online,Economics and Finance,93,50763.65584
+88,357559,"Daniels, Savian",Female,22,in-person,Economics and Finance,47,31749.80683
+89,195489,"Gang, Terell",Male,22,online,Economics and Finance,61,48126.35525
+90,869543,"Dural, Brooklyn",Female,21,online,Mathematics and Statistics,79,33365.41896
+91,729441,"Compton, Cristina",Female,34,online,Economics and Finance,57,33208.00874
+92,211258,"Meyerhofer, Caledon",Male,20,in-person,Political Science,69,39448.24826
+93,473908,"Osman, Nicolas",Male,21,in-person,Mathematics and Statistics,49,43007.86425
+94,424253,"Corbett, Gavin",Male,20,online,Mathematics and Statistics,71,48784.55228
+95,387414,"Thompson, Barbara",Female,20,online,Social Sciences,83,40905.46136
+96,419462,"Smith, Hannah",Female,23,online,Political Science,68,44701.60568
+97,643124,"Truitt, Raymond",Male,23,online,Mathematics and Statistics,71,43050.49922
+98,721649,"Mcelhaney, Aaron",Male,28,online,Social Sciences,57,50756.55062
+99,777522,"Gabel, Jeremy",Male,24,online,Social Sciences,75,40007.98851
+100,539383,"Ramirez, Jozlyn",Female,22,online,Political Science,60,53800.46341
+101,346731,"Lee, Nicholas",Male,22,online,Social Sciences,65,49068.50218
+102,913374,"Mundo, Sherron",Male,18,in-person,Social Sciences,81,38422.71358
+103,492848,"Maestas, Janet",Female,23,online,Biology,65,43142.38266
+104,631698,"Leyba, Jezzeray",Female,26,in-person,Biology,40,31484.79639
+105,442831,"Samad, Drakkar",Male,21,in-person,Biology,70,40574.10528
+106,916103,"Aragon, Joel",Male,20,in-person,Social Sciences,77,62307.04322
+107,816730,"Manglona, Ricardo",Male,21,online,Political Science,71,38746.63601
+108,944417,"Hightower, Janaya",Female,20,online,Mathematics and Statistics,72,26730.7756
+109,524371,"Duran, Alexandria",Female,22,in-person,Environmental Sciences,44,25658.82841
+110,480022,"Wilder, Caitlyn",Female,22,online,Economics and Finance,91,40958.45002
+111,393220,"Pham, Emanuel",Male,20,online,Biology,68,42894.0207
+112,328337,"Thill, Andrea",Female,23,in-person,Environmental Sciences,69,41315.55972
+113,358961,"Rojas Duarte, Gladys",Female,47,online,Biology,90,48508.07265
+114,475771,"Guerette, Austin",Male,49,online,Biology,63,52582.45634
+115,348075,"Jones, Megan",Female,21,online,Social Sciences,72,37214.34066
+116,335524,"Brooks, Requal",Female,21,in-person,Political Science,90,40171.32868
+117,670946,"Garcia, Justice",Female,25,online,Mathematics and Statistics,40,31325.99874
+118,314446,"Tran, Travis",Male,20,online,Mathematics and Statistics,31,37812.50445
+119,621166,"Schleiker, Caitlin",Female,22,online,Biology,69,34812.38777
+120,950531,"Costigan, Issac",Male,22,online,Economics and Finance,88,49780.1771
+121,786879,"Benson, Joseph",Male,22,in-person,Mathematics and Statistics,70,39145.21302
+122,718210,"Woo, Onyedikachi",Male,24,online,Political Science,90,53462.19231
+123,500133,"Jones, Rebecca",Female,20,online,Environmental Sciences,48,33150.02538
+124,640908,"Alyazidi, Gabriel",Male,20,online,Biology,88,44599.50592
+125,648227,"Porter, Brandon",Male,24,in-person,Political Science,50,41601.20197
+126,726448,"Washington-Cloud, Zvi",Female,21,online,Social Sciences,79,41012.75618
+127,362536,"Kelly, Hannah",Female,21,online,Economics and Finance,59,41239.15434
+128,445117,"Kim, Dametrious",Male,19,in-person,Environmental Sciences,75,45295.39127
+129,141973,"Ayyanar, Bryan",Male,20,in-person,Economics and Finance,70,35631.14194
+130,671620,"Trejo, Isaura",Female,22,online,Environmental Sciences,38,30280.57596
+131,552687,"Pedersen, Jessica",Female,20,online,Environmental Sciences,61,48667.06794
+132,659741,"Rice, Charles",Male,20,in-person,Economics and Finance,70,47723.10304
+133,671968,"Thesz, Steven",Male,21,in-person,Social Sciences,91,55057.93856
+134,304227,"Nichols, Anthony",Male,21,online,Political Science,78,38932.04137
+135,765405,"Vaughn, Christopher",Male,22,online,Mathematics and Statistics,58,33058.21697
+136,486243,"Putsche, Le Darius",Male,20,in-person,Biology,69,36840.84932
+137,711793,"Perales, Aaliyah",Female,22,online,Social Sciences,54,29195.49695
+138,410319,"Wiggins, Daniel",Male,20,in-person,Social Sciences,62,48735.87871
+139,980941,"Thomas, Ayrielle",Female,20,online,Biology,62,33910.84453
+140,605051,"Williams, Kristal",Female,19,online,Social Sciences,87,47211.38772
+141,213944,"Gant, Brianna",Female,20,online,Economics and Finance,49,25164.41043
+142,199303,"Hassan, Goliath",Male,21,online,Political Science,67,53297.19095
+143,652632,"Kennon, Joseph",Male,33,online,Economics and Finance,80,45583.58072
+144,240928,"Morgan, Kelly",Female,21,online,Biology,66,47172.47153
+145,462072,"Camacho, Brandon",Male,23,in-person,Biology,68,47556.43909
+146,342507,"Yun, Johnny",Male,22,in-person,Economics and Finance,88,40846.99347
+147,572435,"Joseph, Edgar",Male,20,in-person,Political Science,90,44409.08068
+148,288632,"Rodriguez, Atif",Male,24,online,Political Science,88,44728.78126
+149,384106,"Talley, Samantha",Female,19,online,Environmental Sciences,76,40593.39145
+150,645562,"Stokes, Paige",Female,20,in-person,Economics and Finance,49,28929.07149
+151,519478,"Denhartog, Raymond",Male,20,online,Social Sciences,72,34979.13595
+152,360136,"Wommack, Kenji",Male,24,online,Biology,69,43434.40255
+153,205083,"Palmer, Arif",Male,21,in-person,Biology,74,42310.09137
+154,474060,"Song, Kristopher",Male,21,online,Economics and Finance,86,49115.40783
+155,124588,"Brown, Savannah",Female,22,online,Social Sciences,74,44826.96789
+156,958720,"Human, Felicia",Female,21,online,Environmental Sciences,56,37239.17407
+157,155294,"Soto, Shella",Female,19,online,Social Sciences,83,42463.4793
+158,271875,"Yu, Shaquille",Male,21,in-person,Political Science,69,38925.60078
+159,767035,"Phouminh, Collin",Male,52,in-person,Political Science,89,56558.16074
+160,648608,"Tejan, Natasha",Female,23,online,Social Sciences,66,29891.67194
+161,866896,"Kauffmann, Wyatt",Male,23,online,Biology,77,44423.38722
+162,162969,"Escobar, Selena",Female,24,online,Political Science,86,39337.90389
+163,343541,"Wollenzin, Teri",Female,22,in-person,Environmental Sciences,68,40473.54825
+164,719351,"Willoughby, Carlos",Male,19,in-person,Economics and Finance,44,30591.34458
+165,283972,"Jin, Victor",Male,21,online,Mathematics and Statistics,67,44697.61169
+166,460292,"Taylor, Chloe",Female,21,online,Economics and Finance,84,41367.11528
+167,146405,"Apodaca-Anaya, Daniel",Male,26,online,Economics and Finance,78,32680.60721
+168,371565,"Vinod, Angel",Male,24,in-person,Economics and Finance,69,55993.91371
+169,112630,"Cseh, Rachael",Female,21,online,Environmental Sciences,50,35939.26382
+170,443431,"Toraya-Sosa, Tayvea",Female,20,in-person,Economics and Finance,77,34870.66553
+171,318946,"Porter, Julianna",Female,21,online,Environmental Sciences,38,34136.25733
+172,659582,"Makaiwi, Yosua",Male,21,online,Social Sciences,81,52433.73347
+173,661366,"Rayos, Gerard",Male,19,in-person,Biology,47,36279.91057
+174,157197,"Johnson, Loagyn",Female,21,online,Biology,65,41672.00975
+175,693691,"Lopez, Mario",Male,23,in-person,Social Sciences,83,51752.34452
+176,557698,"Bowman, Jordan",Male,23,online,Political Science,42,34237.20181
+177,957099,"Summers, Robert",Male,19,online,Political Science,92,43323.64078
+178,553419,"Whiteman, Matthew",Male,19,online,Mathematics and Statistics,43,33836.95779
+179,337026,"Kim, William",Male,22,in-person,Economics and Finance,79,65635.9975
+180,654954,"Quintana, Alex",Male,63,in-person,Economics and Finance,89,37009.07694
+181,354608,"Gonzales, David",Male,20,online,Biology,58,48335.51625
+182,330670,"Vasquez, T'Keyah",Female,21,online,Economics and Finance,56,37529.56415
+183,393717,"Jefferson, Timothy",Male,24,in-person,Economics and Finance,58,18571.24357
+184,929384,"Hermawan, Derantae",Male,21,in-person,Political Science,68,40868.55442
+185,509437,"Day, Chinguun",Male,22,online,Environmental Sciences,93,55273.77456
+186,431761,"Huffstater, Jonathan",Male,22,in-person,Biology,86,49832.64746
+187,493344,"Pettibone, Paige",Female,21,in-person,Mathematics and Statistics,53,27244.06207
+188,975648,"Tan, James",Male,22,online,Mathematics and Statistics,70,29667.75535
+189,249052,"Sotelo, Laura",Female,22,online,Mathematics and Statistics,54,45712.31886
+190,851749,"Perez, Raja",Female,24,online,Mathematics and Statistics,82,52259.07091
+191,207217,"Valadez, William",Male,19,online,Mathematics and Statistics,76,37999.59905
+192,888237,"Zuni, Roman",Male,18,in-person,Political Science,40,34460.44442
+193,591642,"Baig, Alexander",Male,26,online,Environmental Sciences,88,46213.64478
+194,173432,"Grainda, Pedro",Male,22,online,Mathematics and Statistics,70,49767.53874
+195,641601,"Toledo, Christofer",Male,18,online,Mathematics and Statistics,71,33908.17913
+196,518182,"Parson, Nicholas",Male,20,online,Economics and Finance,65,37967.02449
+197,429965,"Kief, Keenan",Male,21,in-person,Economics and Finance,93,42631.29645
+198,563189,"Begay, Sean",Male,21,online,Economics and Finance,58,30676.6659
+199,921385,"Johnson, Jake",Male,19,online,Social Sciences,57,33369.05117
+200,409254,"Longwing, Chad",Male,20,online,Social Sciences,79,46161.77792
+201,410536,"Lozano, Kurissa",Female,18,online,Environmental Sciences,41,30062.70983
+202,382280,"Renehan, David",Male,21,online,Political Science,79,45268.73454
+203,767582,"Saldanha, Alexander",Male,21,online,Political Science,72,56308.85373
+204,314035,"Herrera Avila, Dejah",Female,20,online,Mathematics and Statistics,76,25998.48077
+205,894899,"Perez, Carlos",Male,20,online,Social Sciences,91,47107.35419
+206,517410,"Buchanan, Dominic",Male,21,online,Environmental Sciences,88,60492.32148
+207,300697,"Silverston, Khiem",Male,21,online,Environmental Sciences,65,44917.8196
+208,371501,"Li, Majid",Male,26,online,Political Science,77,57928.76564
+209,358344,"Guerra Moreno, Courtney",Female,19,in-person,Social Sciences,74,42364.12
+210,489114,"Nguyen, Xavier",Male,22,in-person,Mathematics and Statistics,46,50704.7586
+211,422898,"Beltran Ramirez, Bania",Female,25,online,Political Science,72,31763.75495
+212,686274,"Rude, Trevon",Male,22,in-person,Political Science,70,32394.79347
+213,497787,"Majid, Jordan",Male,20,online,Mathematics and Statistics,71,60675.79303
+214,919906,"Gear, Kalah",Female,22,online,Social Sciences,50,37782.86471
+215,324890,"Beyene, Rasmi",Female,22,in-person,Political Science,80,46884.35283
+216,679734,"Black, Dennis",Male,19,online,Political Science,76,43441.641
+217,352462,"Scaggs, Brisha",Female,19,online,Social Sciences,75,38402.67248
+218,939002,"Bernhardt, Shelina",Female,19,in-person,Social Sciences,63,25883.02897
+219,928126,"Revello, Kevin",Male,19,online,Biology,73,54631.11424
+220,640526,"Andrews, Ashlyn",Female,20,in-person,Environmental Sciences,50,28822.61661
+221,944068,"Pham, Joseph",Male,22,in-person,Biology,67,43816.50376
+222,511097,"Vargas, Lashantarica",Female,63,online,Mathematics and Statistics,72,46130.95409
+223,122418,"Collins, Phillip",Male,20,online,Economics and Finance,76,41387.47997
+224,656753,"Chavarria, Henry",Male,24,online,Biology,59,41309.06957
+225,449566,"Padilla, Alexis",Female,19,in-person,Biology,89,45901.44917
+226,570121,"Paredes, Alesia",Female,23,online,Biology,77,31764.44396
+227,367500,"Nunez, Vanessa",Female,21,in-person,Environmental Sciences,51,23648.55651
+228,685605,"Singh, Ian",Male,26,online,Political Science,79,39239.6384
+229,168722,"Abraham, Marcus",Male,20,online,Political Science,73,36845.37157
+230,112656,"Chavez, Faith",Female,21,online,Social Sciences,81,37143.85523
+231,617808,"Martin, Ayla",Female,20,in-person,Mathematics and Statistics,75,31363.24736
+232,442604,"Taylor, Lilly",Female,22,in-person,Biology,63,29039.69103
+233,970790,"Ronquillo, Jasmine",Female,19,online,Economics and Finance,85,31824.94161
+234,810116,"Hutton, Jonathan",Male,20,online,Environmental Sciences,45,31806.74024
+235,128529,"Lee, Alan",Male,20,in-person,Social Sciences,74,62091.43961
+236,810071,"Jhaveri, Martin",Male,20,in-person,Mathematics and Statistics,80,39159.6583
+237,143602,"Hammond, Mirissa",Female,21,online,Political Science,70,42295.64525
+238,741786,"Mendez, Yoselin",Female,22,online,Economics and Finance,50,28015.62354
+239,350522,"Barron, Vang",Male,23,online,Political Science,79,43496.36866
+240,896546,"Cho, Christopher",Male,20,online,Environmental Sciences,94,58612.23611
+241,592878,"Hall, Andrew",Male,20,online,Environmental Sciences,37,39843.84615
+242,296420,"Gonzalez, Eva",Female,26,online,Environmental Sciences,48,26452.4497
+243,230328,"Patterson, Jarnell",Male,22,online,Economics and Finance,78,56720.61968
+244,224270,"Puckett, Paul",Male,19,in-person,Mathematics and Statistics,43,23090.67376
+245,200854,"Hernandez, Jhamilex",Female,21,in-person,Social Sciences,76,30741.23729
+246,279735,"Guerra, Devonte",Male,23,online,Political Science,69,62052.20232
+247,812628,"Bhagat, Jordan",Male,21,online,Environmental Sciences,91,57318.4414
+248,278966,"Lopez, Tyler",Male,22,in-person,Political Science,63,60576.84445
+249,929790,"Salgado, Tanya",Female,21,in-person,Environmental Sciences,59,22710.2407
+250,329063,"Bell, Mirza",Male,19,online,Political Science,85,50402.74704
+251,897990,"Matin, Ariel",Male,21,online,Political Science,69,53527.42558
+252,943870,"Absher, Kevin",Male,21,online,Biology,73,47902.18725
+253,986906,"Taylor, Soo",Female,20,online,Mathematics and Statistics,72,35908.91648
+254,932889,"Lewis, Robert",Male,23,online,Economics and Finance,93,46008.15235
+255,454208,"Bernatsky, Matthew",Male,21,in-person,Political Science,79,65441.30143
+256,805868,"Mack, Naomi",Female,21,online,Economics and Finance,73,35407.27312
+257,215559,"Qadri, Thristin",Male,24,online,Biology,79,41393.98842
+258,824507,"Rice, Paul",Male,20,online,Mathematics and Statistics,43,36227.44376
+259,496263,"Marshall, Michael",Male,21,online,Biology,92,46116.22173
+260,288990,"Ortega, Michael",Male,22,in-person,Biology,87,56640.59104
+261,403855,"Zuniga, Destiney",Female,24,online,Biology,67,27505.51553
+262,797792,"Dedios, Kang",Male,18,in-person,Social Sciences,76,42388.6001
+263,930584,"Blas Meza, Cheyanne",Female,22,online,Environmental Sciences,78,43315.01952
+264,589397,"Garcia Alvarado, Ariana",Female,20,online,Environmental Sciences,87,40961.23435
+265,900121,"Gallegos, Anthony",Male,22,online,Social Sciences,91,60675.75398
+266,963635,"Valdez, Savannha",Female,23,in-person,Mathematics and Statistics,82,41387.99385
+267,356309,"Harney, Ander",Male,21,online,Social Sciences,64,71537.22292
+268,978287,"Padeway, Dan",Male,53,in-person,Political Science,81,65107.53227
+269,778740,"Fernandes, Andrew",Male,19,in-person,Mathematics and Statistics,72,41610.77638
+270,571639,"Chau, Zacariah",Male,23,in-person,Social Sciences,54,53319.9143
+271,828818,"Faktorovich, Briana",Female,21,online,Economics and Finance,77,24382.6483
+272,162522,"Knoll, Gabriel",Male,26,online,Mathematics and Statistics,66,42826.17211
+273,811189,"Gloyd, Jun-Wo",Male,18,in-person,Mathematics and Statistics,67,47490.25317
+274,976857,"Martinez, Dante",Male,20,online,Social Sciences,93,44368.14756
+275,457405,"Wong, Joshua",Male,29,online,Political Science,76,34293.40071
+276,513477,"Valdez, Paulina",Female,19,in-person,Mathematics and Statistics,77,40779.20844
+277,558477,"Peraza Martinez, Selena",Female,19,online,Environmental Sciences,78,40093.45597
+278,304871,"Costa, Landon",Male,20,online,Mathematics and Statistics,85,50496.18194
+279,912927,"Sabey, George",Male,18,online,Biology,66,47842.43633
+280,385346,"Hicks, Alexis",Female,23,in-person,Biology,55,40606.4072
+281,812008,"Clift, Jiali",Female,26,online,Social Sciences,85,40188.57795
+282,857491,"Bueno, Brittany",Female,23,online,Biology,70,40032.78371
+283,809408,"Minor, Christopher",Male,20,in-person,Political Science,69,45224.23314
+284,988524,"Tann, Rene",Male,23,in-person,Mathematics and Statistics,78,50910.6527
+285,674333,"Davis, Marce",Female,21,online,Biology,44,24104.96887
+286,865842,"Garcia, Troy",Male,22,in-person,Biology,92,47000.86575
+287,477711,"Small, Falisha",Female,25,in-person,Political Science,66,40480.79397
+288,236613,"Doughty, Malcolm",Male,21,in-person,Social Sciences,88,52856.89077
+289,557212,"Lu, Jonatan",Male,23,online,Social Sciences,74,32850.00387
+290,199539,"Quangson, Aaron",Male,24,online,Economics and Finance,61,42176.90829
+291,425631,"Tang, Jorge",Male,22,online,Political Science,79,39814.40857
+292,279381,"Romero, Brittany",Female,22,in-person,Political Science,47,26744.0631
+293,944466,"Mireles, Shelly",Female,24,in-person,Political Science,82,38405.23134
+294,664732,"Zapata, Veronica",Female,18,online,Social Sciences,79,42539.95084
+295,263680,"Eastburn-Rundle, Haliegh",Female,60,online,Social Sciences,64,34519.54699
+296,674442,"Williams, Tiberius",Male,19,online,Political Science,58,66636.72062
+297,728029,"Gramse, Brady",Female,20,online,Economics and Finance,50,27893.25871
+298,355031,"Hansen, John",Male,23,in-person,Economics and Finance,72,46434.88134
+299,335768,"Ibarra, Jaizmin",Female,25,online,Mathematics and Statistics,48,31483.59427
+300,169650,"Ashworth, Noah",Male,19,in-person,Biology,53,41391.62004
+301,659253,"Givens, Jaspreet",Female,23,in-person,Mathematics and Statistics,80,37569.62228
+302,206207,"Weiss, Peter",Male,20,online,Mathematics and Statistics,66,47209.53661
+303,589505,"Gamez, Trice",Female,20,in-person,Mathematics and Statistics,66,40087.25358
+304,384883,"Salazar, Rojan",Male,24,online,Political Science,89,61384.54935
+305,247151,"Ortega, Marissa",Female,21,online,Environmental Sciences,53,24332.58702
+306,966961,"Amon, Ewald",Male,20,in-person,Biology,57,51126.52593
+307,169114,"Muniz, Raquel",Female,21,online,Social Sciences,56,29216.86448
+308,905296,"Sleevi, Veronica",Female,24,in-person,Mathematics and Statistics,55,37240.11334
+309,324756,"Mares, Richie",Male,19,online,Environmental Sciences,90,44368.67011
+310,487096,"Rodrigues, Daylamae",Female,19,online,Economics and Finance,62,19636.58837
+311,498504,"Brooks, Ethan",Male,21,in-person,Economics and Finance,90,65397.21855
+312,596678,"Rose, Joshua",Male,23,online,Political Science,75,41541.09399
+313,448938,"Warren, Alex",Male,23,online,Social Sciences,86,53471.52212
+314,366237,"Thompson, Joon Ho",Male,21,online,Mathematics and Statistics,44,27488.454
+315,551707,"Arellano, Elnora",Female,22,online,Political Science,69,36829.37158
+316,321349,"Wright, Tyler",Male,22,in-person,Political Science,60,57427.14105
+317,836456,"Gor, Brian",Male,21,in-person,Mathematics and Statistics,72,57029.39386
+318,134081,"Hudson, Jesus",Male,22,in-person,Mathematics and Statistics,74,53304.27651
+319,669750,"Pak, Rashad",Male,22,online,Mathematics and Statistics,72,45281.81173
+320,287888,"Boykin, Vincent",Male,18,in-person,Economics and Finance,87,41816.70065
+321,176666,"Smith, Eric",Male,22,online,Social Sciences,81,45676.76977
+322,554521,"Pollet, Morgan",Female,24,online,Social Sciences,57,11444.14165
+323,199840,"Tran, Rakim",Male,22,online,Political Science,95,50827.34401
+324,189421,"Montoya, Jayla",Female,22,online,Environmental Sciences,61,41282.13491
+325,464978,"Holeso, Devon",Male,24,online,Economics and Finance,67,36351.36267
+326,982773,"Chanthongthip, Kevin",Male,19,online,Economics and Finance,49,33354.01753
+327,787385,"Yoshimura, Victor",Male,20,online,Economics and Finance,91,50474.89975
+328,594536,"Nguyen, Kyle",Male,21,online,Mathematics and Statistics,79,57559.89058
+329,879901,"Pham, Joshua",Male,19,online,Environmental Sciences,79,40489.48767
+330,507809,"Ramos, Monique",Female,23,online,Biology,34,31151.41714
+331,252629,"Tsosie, Khashkhuu",Male,19,online,Biology,76,34397.78413
+332,454608,"Do, Keven",Male,21,in-person,Social Sciences,77,40925.29349
+333,554591,"Montoya, Felicia",Female,20,in-person,Economics and Finance,69,31646.2595
+334,507150,"Douglas, Allen",Male,21,in-person,Biology,54,43989.75161
+335,788689,"Gurule, Tyler",Male,20,in-person,Environmental Sciences,80,42548.76059
+336,699241,"Hart, Vanessa",Female,20,online,Mathematics and Statistics,80,29496.8661
+337,792334,"Paz, Jehimy",Female,20,in-person,Economics and Finance,53,24394.5899
+338,660217,"Ortega, Alexandria",Female,19,online,Economics and Finance,78,33493.16088
+339,862492,"Armbruster, Tony",Male,21,in-person,Mathematics and Statistics,68,39805.78196
+340,122995,"Lee, Cesar",Male,22,in-person,Social Sciences,76,54206.22179
+341,380838,"Yee, Conrad",Male,20,in-person,Biology,68,46320.61033
+342,484517,"Jacket, Yihang",Male,21,online,Environmental Sciences,81,51828.65795
+343,511445,"Mascarenas, Solicia",Female,23,online,Mathematics and Statistics,79,29854.7992
+344,861582,"Plenty Wolf, Cheyenne",Male,22,in-person,Biology,86,48991.98355
+345,189725,"Tarin, Shaquell",Male,28,online,Biology,78,41134.95944
+346,617826,"Davis, Jaden",Male,21,in-person,Social Sciences,84,46889.48254
+347,600853,"Walker, Dimitri",Male,22,in-person,Economics and Finance,80,41414.74231
+348,869069,"Franklin, Mark",Male,20,in-person,Economics and Finance,85,50329.83591
+349,177802,"Longoria, Ian",Male,19,online,Social Sciences,57,40453.83153
+350,309801,"Heidrich, Anthony",Male,20,in-person,Economics and Finance,78,51416.20041
+351,158666,"Matthews, Tiffany",Female,19,online,Political Science,94,38368.90506
+352,805375,"Lopez, Van",Male,38,in-person,Mathematics and Statistics,76,49777.2153
+353,565447,"Woo, Alfredo",Male,25,online,Environmental Sciences,70,63375.37993
+354,725752,"Oetken, Michael",Male,21,in-person,Environmental Sciences,46,61663.58283
+355,392417,"Clausen, Alyzza",Female,22,in-person,Economics and Finance,55,28820.16429
+356,296396,"Cuevas, Riyo",Female,20,online,Environmental Sciences,85,39224.06219
+357,900004,"Sandoval, Joseph",Male,22,in-person,Environmental Sciences,82,46238.41095
+358,707668,"Anaya, Azya",Female,21,in-person,Mathematics and Statistics,74,28707.48701
+359,814718,"Kelley, Tuyet",Female,21,online,Political Science,44,34420.48481
+360,516229,"Rubio, Casey",Female,21,online,Mathematics and Statistics,81,43634.64981
+361,162947,"Gurule, Matthew",Male,20,online,Political Science,66,60216.82003
+362,434840,"Owens, Evan",Female,24,in-person,Mathematics and Statistics,42,31219.13759
+363,965061,"Smith, Chakara",Female,23,online,Political Science,65,46116.8013
+364,569422,"Walston, Madeline",Female,22,online,Social Sciences,95,45625.09346
+365,302889,"Mcelwreath, Robert",Male,45,online,Biology,71,43894.14821
+366,710686,"Simanjuntak, Noah",Male,21,in-person,Biology,86,58913.76002
+367,526145,"Leyva, Samantha",Female,20,in-person,Mathematics and Statistics,78,37653.16526
+368,692003,"Salazar, Catherine",Female,27,online,Economics and Finance,81,35175.69774
+369,600996,"Yang, Brandon",Male,19,online,Mathematics and Statistics,71,47258.15093
+370,744792,"Yang, Zachariah",Male,21,online,Political Science,80,69518.73751
+371,851941,"Cameron, Morgan",Female,24,in-person,Economics and Finance,39,28442.80425
+372,574219,"Le, Maximilian",Male,23,online,Economics and Finance,63,36200.03876
+373,988603,"Davis, Frank",Male,32,online,Biology,68,49604.97441
+374,484480,"Washington, Erica",Female,21,online,Biology,88,23866.7016
+375,210485,"Miner, Peter",Male,19,online,Biology,74,52675.52192
+376,568049,"Carlton, Ari'Yon",Male,20,in-person,Environmental Sciences,87,47351.42722
+377,147318,"Oberai, Brandon",Male,24,online,Environmental Sciences,66,65776.22733
+378,969418,"King, Vincent",Male,27,online,Environmental Sciences,73,43191.15122
+379,275014,"Hart, Kala",Female,19,in-person,Environmental Sciences,60,41430.15745
+380,728576,"Vanconett, Elizabeth",Female,19,in-person,Economics and Finance,72,34791.43357
+381,282208,"Haroon, Isaac",Male,24,in-person,Biology,78,53064.78751
+382,970464,"Vang, Lorenzo",Male,59,online,Biology,90,53704.74968
+383,359665,"Kasper, Dominic",Male,20,online,Social Sciences,77,46461.91714
+384,611195,"Sayles, Marcus",Male,22,online,Mathematics and Statistics,49,30761.86021
+385,883812,"Garcia, Drew",Female,20,online,Biology,76,35813.74391
+386,477938,"Lee, Jeritt",Male,25,online,Environmental Sciences,90,47815.62218
+387,350566,"Burgesser, Taryn",Female,42,online,Environmental Sciences,84,43819.49922
+388,654582,"Sutherlin, Michelle",Female,20,online,Environmental Sciences,66,45678.74949
+389,791265,"Cayetano Jimenez, Danacia",Female,21,in-person,Biology,65,47683.23657
+390,740013,"Morales, Briana",Female,21,in-person,Political Science,77,30873.06356
+391,394257,"Dwyer, Joshua",Male,23,in-person,Biology,69,37008.17845
+392,877560,"Davis, Alanna",Female,19,online,Environmental Sciences,54,41569.68486
+393,206961,"Danvers, Shanelle",Female,21,online,Social Sciences,55,26018.60986
+394,726881,"Murray, Hament",Male,21,in-person,Biology,53,39262.46618
+395,775592,"Mcintosh, Brandon",Male,21,online,Mathematics and Statistics,62,34116.80988
+396,690399,"Jacket, Seong",Male,24,online,Environmental Sciences,65,55882.64197
+397,923689,"Herold, Austin",Male,20,online,Biology,61,46786.20716
+398,756961,"Lor, Mario",Male,19,online,Biology,77,36439.33122
+399,842635,"Carlson, Neil",Male,21,online,Mathematics and Statistics,63,61778.79067
+400,902623,"Anders, Avinaba",Male,25,online,Social Sciences,72,52183.85437
+401,921795,"Twitty, Michael",Male,20,in-person,Mathematics and Statistics,62,31790.11085
+402,491938,"Ketema, Ramona",Female,20,online,Mathematics and Statistics,51,37306.14735
+403,950015,"Ao, Tylar",Male,23,in-person,Environmental Sciences,72,60847.56004
+404,912964,"Soufiani, Devin",Male,24,in-person,Environmental Sciences,66,54083.05555
+405,644222,"Trujillo, Daphne",Female,20,online,Environmental Sciences,52,34201.5756
+406,908969,"Lee, Destiny",Female,24,online,Economics and Finance,91,36600.49192
+407,355269,"Santana, Sarahnora",Female,23,in-person,Economics and Finance,73,30606.19832
+408,430350,"Hernandez, Kaniesha",Female,20,online,Social Sciences,82,49620.96813
+409,795087,"Lim, Tion",Male,23,online,Environmental Sciences,64,63183.62447
+410,206009,"Desai, Luis",Male,19,in-person,Social Sciences,91,48288.53006
+411,290953,"Ho, Knevin",Male,20,in-person,Environmental Sciences,53,28927.89842
+412,515270,"Thapa, Carlos",Male,23,online,Mathematics and Statistics,84,49930.48873
+413,202267,"Munson, Gabrylle",Female,22,online,Mathematics and Statistics,76,33216.11898
+414,706070,"Bennett, Roman",Male,21,online,Environmental Sciences,81,35538.88678
+415,159061,"Watts, Tony",Male,20,online,Political Science,33,27154.28596
+416,923944,"Angeles, Angel",Male,23,in-person,Mathematics and Statistics,83,43904.91335
+417,679466,"Scott, Kristen",Female,21,online,Mathematics and Statistics,86,52046.95926
+418,321492,"Nguyen, John",Male,21,in-person,Environmental Sciences,69,51439.25574
+419,546863,"Sandoval, Ronnisha",Female,22,online,Mathematics and Statistics,81,30908.98677
+420,825379,"Dickey, Dane",Male,24,online,Mathematics and Statistics,58,50865.40862
+421,420763,"Mendez, Maya",Female,23,online,Biology,58,45054.9538
+422,683224,"Stebbins, Leonardo",Male,24,online,Mathematics and Statistics,79,42338.83137
+423,768607,"Tree, Henry",Male,22,online,Mathematics and Statistics,71,36291.58279
+424,805991,"Rosser, Stephen",Male,21,online,Mathematics and Statistics,70,46284.13748
+425,532938,"Bills, Tessa",Female,21,online,Biology,58,31011.93188
+426,217025,"Vang, Gerald",Male,20,online,Mathematics and Statistics,78,56756.0606
+427,117917,"Dela Cruz, Alfonso",Male,21,online,Environmental Sciences,84,54077.54939
+428,812543,"Pak, Arturo",Male,22,online,Environmental Sciences,85,57841.89486
+429,791609,"Zhong, Aarin",Male,20,online,Economics and Finance,75,56182.71546
+430,362764,"Park, Ari",Male,21,online,Biology,67,52229.81531
+431,618335,"Mohamed, Angela",Female,24,in-person,Economics and Finance,73,32902.34894
+432,326623,"Park, Michael",Male,22,online,Mathematics and Statistics,78,51467.27875
+433,176838,"Yanito, Othell",Male,21,online,Mathematics and Statistics,64,48882.08317
+434,245697,"Crowe, Sanjay",Male,33,online,Economics and Finance,77,42793.1963
+435,195754,"Miller, Shyanne",Female,20,in-person,Mathematics and Statistics,67,39910.86477
+436,312905,"Combs, Danni",Female,23,online,Mathematics and Statistics,75,35374.68036
+437,858822,"Dutkin, Gustavo",Male,20,online,Political Science,94,44530.39356
+438,704791,"Castaneda, Elisa",Female,20,online,Mathematics and Statistics,72,40355.90281
+439,618749,"Vasquez, Antonia",Female,19,online,Environmental Sciences,74,48650.98376
+440,950895,"Heilman, Santiago",Male,20,online,Environmental Sciences,54,52102.9318
+441,198996,"Evans, Margaret",Female,19,online,Mathematics and Statistics,52,20482.20954
+442,135634,"Tan, Shae",Male,20,in-person,Social Sciences,92,50083.24151
+443,729695,"Simon, Eric",Male,21,online,Economics and Finance,74,36094.97353
+444,479694,"Ware, Lexandra",Female,19,online,Environmental Sciences,47,28672.84826
+445,700769,"Jamison, Austin",Male,20,in-person,Economics and Finance,44,31948.58033
+446,182816,"Lopez, Aspen",Female,23,online,Biology,73,38530.37834
+447,957866,"Romero, Jesse",Male,22,online,Mathematics and Statistics,86,61260.51153
+448,761485,"Ramos, Elizabeth",Female,22,online,Mathematics and Statistics,41,31539.26559
+449,650299,"Bernal, Ji Hoon",Male,23,online,Political Science,83,44895.669
+450,529167,"Marotta, Joshua",Male,22,online,Political Science,74,60101.44384
+451,118892,"Mendez, Erika",Female,23,online,Political Science,69,38889.87033
+452,839969,"Rudd, Jazmyn",Female,25,online,Mathematics and Statistics,75,31335.97737
+453,430239,"Vang, Ezell",Male,21,online,Biology,54,37583.91963
+454,596720,"Lee, Andrew",Male,23,online,Economics and Finance,72,36017.50497
+455,954089,"Anderson, Halee",Female,21,in-person,Social Sciences,57,46945.1741
+456,186261,"Tillmon, Carina",Female,21,online,Mathematics and Statistics,60,34148.56559
+457,696080,"Cruze, Orion",Male,22,online,Political Science,74,56535.24363
+458,212641,"Dominguez, Megan",Female,20,in-person,Biology,77,28453.06441
+459,590941,"Cardoza, Dante",Male,21,online,Economics and Finance,90,48482.89362
+460,317102,"Jones, Priscilla",Female,21,online,Environmental Sciences,45,29635.66814
+461,313685,"May, Anthony",Male,23,in-person,Social Sciences,70,46635.62773
+462,497782,"Vasquez, Santos",Male,19,online,Mathematics and Statistics,68,41383.92801
+463,242731,"Mortel, Brainard",Male,20,online,Political Science,64,57924.64244
+464,593581,"Gonzalez-Ruiz, Alycya",Female,22,online,Mathematics and Statistics,72,45055.00962
+465,683129,"Andrade, Maria",Female,18,in-person,Environmental Sciences,65,21000.25041
+466,384808,"Rangel, Cariann",Female,20,online,Mathematics and Statistics,79,41494.31415
+467,617347,"Rice, Jordan",Male,22,online,Social Sciences,87,40303.74928
+468,829313,"Etsitty, Daniel",Male,22,in-person,Economics and Finance,92,50965.81845
+469,671261,"Mace, Julian",Male,20,online,Political Science,76,55484.64273
+470,534172,"Wallace, Conor",Male,42,online,Biology,73,36304.55712
+471,862277,"Eisele, Henry",Male,19,online,Social Sciences,74,58692.96293
+472,136060,"Vang, Avion",Male,22,online,Economics and Finance,71,52316.11724
+473,334969,"Jara, Ayrika",Female,19,online,Mathematics and Statistics,87,49391.3757
+474,343331,"Petrie, Matthew",Male,18,in-person,Biology,68,64707.81886
+475,833332,"Odell, Katherine",Female,23,online,Mathematics and Statistics,83,44279.06479
+476,755721,"Valles, Kayla",Female,22,online,Environmental Sciences,51,30253.17107
+477,962233,"Shah, Juan",Male,21,online,Biology,61,29758.25654
+478,451961,"Whiteskunk, Gookjin",Male,22,online,Political Science,80,31607.77123
+479,677662,"Lopez, Allexis",Female,22,in-person,Economics and Finance,78,56722.28247
+480,906704,"Swiney, Jayda",Female,18,online,Political Science,71,25979.0748
+481,111469,"Amos, Richard",Male,21,in-person,Social Sciences,74,52452.11209
+482,960701,"Lofton, Dongwoo",Male,24,online,Economics and Finance,80,41670.71269
+483,808356,"Lewis, Ella",Female,23,online,Social Sciences,61,34034.80029
+484,859612,"Terrones, Bobbie",Female,21,in-person,Economics and Finance,57,36283.25729
+485,659359,"Dominguez, Laquesha",Female,21,in-person,Political Science,71,46585.74359
+486,759021,"Young, Rayyan",Male,21,in-person,Biology,91,41124.25846
+487,726681,"Perez, Kanika",Female,22,in-person,Mathematics and Statistics,48,43867.783
+488,398618,"Cali, Wilfrid",Male,22,in-person,Political Science,73,50988.39313
+489,434279,"Zimmerman, Laura",Female,20,online,Social Sciences,58,37841.53825
+490,275951,"Mascarenas, Yeimy",Female,22,online,Social Sciences,62,37018.58814
+491,560475,"Turner, Brooke",Female,21,online,Biology,56,38303.13324
+492,383269,"Larson, Benjamin",Male,43,in-person,Mathematics and Statistics,57,37855.8305
+493,461293,"Hawley, Alexandria",Female,23,online,Mathematics and Statistics,68,50365.09827
+494,806745,"Perkins, Annika",Female,19,online,Economics and Finance,85,40974.77415
+495,224074,"Chan, Edgar",Male,22,online,Environmental Sciences,54,31237.39267
+496,624714,"Le, Natenal",Male,20,online,Biology,65,53113.69606
+497,347889,"Cochran, Jerald",Male,21,online,Biology,62,56036.51648
+498,679986,"Valdez, Chamaray",Male,19,in-person,Social Sciences,85,55300.01931
+499,827353,"Segura, Alysha",Female,21,online,Political Science,83,38906.20896
+500,451408,"Mosley, Emmalee",Female,46,online,Mathematics and Statistics,74,32820.90948
+501,601255,"Smith, Katie",Female,21,online,Biology,49,33354.29491
+502,317857,"Garcia, Thomas",Male,23,online,Mathematics and Statistics,68,50011.69106
+503,225865,"Falconer, Kollyn",Male,20,online,Political Science,70,50078.32817
+504,445948,"Diller, Adrian",Male,21,in-person,Environmental Sciences,87,37014.01454
+505,469849,"Adetoye, Caleb",Male,21,online,Mathematics and Statistics,63,66922.11848
+506,426940,"Trejo, Analy",Female,23,online,Mathematics and Statistics,78,45120.14398
+507,198362,"Kinlicheene, Alexander",Male,22,in-person,Social Sciences,76,44482.70705
+508,748309,"Ojeda Santillan, Ajana",Female,24,online,Environmental Sciences,90,37760.04765
+509,435115,"Mcculley, Felix",Male,22,online,Mathematics and Statistics,77,58113.05305
+510,934141,"Ramirez, Amairani",Female,20,online,Environmental Sciences,62,47968.09999
+511,651987,"Yang, Reymundo",Male,23,online,Social Sciences,92,44010.67494
+512,271433,"Viner, Casey",Male,21,online,Mathematics and Statistics,43,46246.96766
+513,455769,"Xiong, Dominic",Male,21,online,Environmental Sciences,83,48997.25119
+514,361644,"Rohrkaste, Joshua",Male,21,in-person,Social Sciences,50,47547.65208
+515,249189,"Hilt, Bethanie",Female,21,online,Economics and Finance,73,26269.01718
+516,360430,"Warren, Natalie",Female,22,online,Biology,48,30326.90761
+517,176318,"Duong, Randy",Male,21,online,Environmental Sciences,65,54416.31771
+518,873076,"Bermudez, Zoe",Female,23,online,Political Science,74,31386.58362
+519,936548,"Hayes, Morgan",Female,22,in-person,Social Sciences,76,49042.90145
+520,481418,"Wongveerakul, Carlos",Male,21,in-person,Environmental Sciences,89,57047.99091
+521,276165,"Preston, Solomon",Male,26,online,Biology,74,59404.19598
+522,505652,"Shrestha, Andrew",Male,22,online,Political Science,71,33924.94839
+523,894127,"Rivera, Raven",Female,21,online,Mathematics and Statistics,46,27632.08151
+524,228580,"Hill, Susana",Female,21,online,Economics and Finance,47,31224.46177
+525,712039,"Duran, Lela",Female,29,online,Social Sciences,64,42108.0002
+526,979289,"Coody, Sally",Female,22,online,Environmental Sciences,58,36508.23864
+527,403401,"Her, Vincent",Male,22,in-person,Social Sciences,58,37747.91379
+528,149540,"Fife, Lexy",Female,18,online,Social Sciences,58,34492.07721
+529,831973,"Samples, Velia",Female,51,online,Mathematics and Statistics,80,38721.82904
+530,165377,"Williams, Anisa",Female,21,in-person,Political Science,69,30095.65611
+531,492136,"Gresham, Amy",Female,21,in-person,Political Science,81,38188.89195
+532,579104,"Farmer, Ricardo",Male,20,online,Social Sciences,76,47308.50043
+533,458881,"Ontiveros, Jacqueline",Female,19,online,Biology,71,43748.99516
+534,654710,"Hickson, Trevor",Male,22,in-person,Social Sciences,60,51367.37446
+535,681269,"Tarrant, Wana",Female,19,online,Environmental Sciences,46,27606.4034
+536,298182,"Boykin, Bruce",Male,21,online,Mathematics and Statistics,67,59920.48058
+537,481558,"Atmore, Kevin",Male,22,in-person,Social Sciences,72,51465.42035
+538,202012,"Hair, Kyle",Male,22,online,Social Sciences,75,49940.55353
+539,445871,"Marquez, Melonie",Female,22,online,Mathematics and Statistics,81,51353.46231
+540,747244,"Mazotti, Jared",Male,22,online,Environmental Sciences,67,64271.11979
+541,952649,"Snyder-Jones, Anthony",Male,19,in-person,Environmental Sciences,55,37819.83009
+542,243014,"Galligan, Solomon",Male,20,in-person,Political Science,87,69351.41417
+543,543466,"Plaatjes, Ryan",Male,22,in-person,Social Sciences,61,51568.10564
+544,186220,"Lou, Norberto",Male,23,online,Biology,60,37258.96295
+545,482518,"Moreland, Breanna",Female,22,online,Social Sciences,80,29325.86874
+546,766664,"Forrest, Heather",Female,22,online,Mathematics and Statistics,82,34211.74855
+547,762595,"Geberkidane, Stephanie",Female,21,online,Mathematics and Statistics,66,42971.28923
+548,491571,"Smith, Rebecca",Female,23,online,Environmental Sciences,46,42555.18759
+549,577119,"Miller, William",Male,22,online,Environmental Sciences,35,33831.46012
+550,863615,"Tam, Alejandro",Male,41,online,Economics and Finance,73,34491.28028
+551,659921,"Foster, Isaac",Male,25,online,Biology,87,70324.83769
+552,813853,"Lawton, Jacob",Male,36,online,Political Science,82,54410.43923
+553,946346,"Nguyen, Matteo",Male,20,in-person,Economics and Finance,70,46897.26797
+554,163772,"Ray, Sade",Female,23,in-person,Economics and Finance,67,28235.06109
+555,153149,"Mcbride, Thien",Male,21,in-person,Social Sciences,75,53242.38134
+556,905586,"Smith, Tyler",Male,21,in-person,Environmental Sciences,66,47417.82869
+557,559035,"Suggs, Brent",Male,19,online,Social Sciences,94,50317.87484
+558,211707,"Flores Xochitla, Samoun",Female,22,online,Mathematics and Statistics,76,40859.55946
+559,531327,"Cotonuts, Matthew",Male,20,online,Environmental Sciences,68,46884.99053
+560,604937,"Thomas, Trae",Male,21,online,Social Sciences,47,35945.22833
+561,791913,"Rosales, Jazmine",Female,20,online,Mathematics and Statistics,77,40064.43476
+562,303136,"Navarro, Shamari",Female,45,online,Mathematics and Statistics,82,52691.50434
+563,566262,"Swanson, Jamie",Female,22,in-person,Biology,72,44368.51359
+564,685552,"Irving, Michaela",Female,19,in-person,Political Science,70,38400.05111
+565,606531,"Fernandez, Amelia",Female,52,in-person,Mathematics and Statistics,58,20690.64749
+566,555871,"Yazzie, Timothy",Male,22,in-person,Social Sciences,53,44242.27158
+567,673553,"Kiyota, Chamos",Male,20,online,Social Sciences,60,46155.08952
+568,926398,"Tall Bull, Marcus",Male,21,in-person,Economics and Finance,44,39931.42447
+569,759497,"Yamaguchi, Juan",Male,22,online,Political Science,68,62887.0343
+570,336410,"Forney, Jacob",Male,22,in-person,Political Science,70,45274.22673
+571,886844,"Piechowski, Dominique",Male,21,in-person,Biology,90,38292.14116
+572,764571,"Yellowhawk, Ezequiel",Male,22,online,Biology,67,69348.60687
+573,893072,"Peters, Sonia",Female,21,online,Biology,55,34055.2891
+574,321581,"Sigala, Nekka",Female,18,online,Biology,60,32943.40901
+575,169014,"Starcer, Ji",Male,20,online,Social Sciences,76,41598.14986
+576,212115,"Molina, Jarleeya",Female,22,online,Political Science,66,26604.10957
+577,127324,"Trujillo, Natae",Female,21,in-person,Political Science,38,28058.50724
+578,901238,"Mosley, Patricia",Female,29,online,Political Science,80,36274.87806
+579,902110,"Bowman, Mathew",Male,23,online,Economics and Finance,74,39299.62456
+580,527029,"Jeffries, Lien",Female,34,online,Mathematics and Statistics,77,43000.507
+581,761067,"Duong, Matthew",Male,21,online,Economics and Finance,89,57332.58523
+582,460855,"Martinez, Taylor",Female,21,online,Economics and Finance,70,29401.35898
+583,350085,"Kelleher, Lejanique",Female,18,in-person,Biology,52,31266.91863
+584,480495,"Rodrigues, Samuel",Male,20,in-person,Environmental Sciences,59,44605.60052
+585,249763,"De La Cerda, Taylor",Female,21,online,Biology,66,27016.8521
+586,962863,"Brauher, Christorpher",Male,21,in-person,Political Science,35,39124.14494
+587,652907,"Long, Lisa",Female,19,online,Environmental Sciences,50,31936.89969
+588,882907,"Ho, Lesante",Male,21,online,Economics and Finance,82,47577.44261
+589,729358,"Davis, Joshua",Male,21,online,Social Sciences,82,59472.34268
+590,678841,"Mitta, Adriel",Male,23,in-person,Mathematics and Statistics,51,33259.90273
+591,593016,"Vang, Terrance",Male,20,online,Social Sciences,68,42664.7906
+592,692008,"Miera, Cierra",Female,18,in-person,Social Sciences,54,35507.82884
+593,481222,"Tran, Tevin",Male,20,online,Economics and Finance,62,38750.2014
+594,170888,"Ortega, Odalis",Female,20,online,Biology,50,31405.47536
+595,199103,"Atencio, Keyana",Female,23,in-person,Economics and Finance,58,34749.58508
+596,495511,"Ellison, Kayla",Female,21,online,Environmental Sciences,70,45993.38553
+597,658589,"Riser, Dina",Female,19,online,Biology,53,37894.44361
+598,651764,"Fagan, Brianna",Female,23,online,Environmental Sciences,91,43571.96907
+599,759837,"Hoang, Michael",Male,20,online,Biology,46,21582.80074
+600,453805,"Cruz, Justin",Male,20,online,Environmental Sciences,75,51032.83841
+601,650150,"Franklin, Vivian",Female,22,online,Environmental Sciences,95,41336.17
+602,747829,"Debow, Krysta",Female,23,online,Social Sciences,70,30618.60966
+603,163325,"Alvarez, Heidi",Female,20,online,Political Science,82,46509.33139
+604,247295,"Ehlers, Carley",Female,21,in-person,Political Science,79,45018.67952
+605,207765,"Bivings, Eric",Male,19,online,Environmental Sciences,79,46557.45072
+606,928145,"Kline, Cam",Female,56,online,Political Science,69,35294.46948
+607,363256,"Montgomery, Lindsey",Female,22,in-person,Biology,54,28887.59297
+608,960794,"Griggs, Lawrence",Male,18,online,Political Science,94,61382.06131
+609,508696,"Engelhart, Yosef",Male,21,in-person,Social Sciences,63,38408.59012
+610,546482,"Smith, Dennis",Male,22,online,Mathematics and Statistics,64,50910.60536
+611,855401,"Calva Calva, Paige",Female,22,in-person,Political Science,53,43552.60124
+612,111998,"Conover, Timothy",Male,20,online,Mathematics and Statistics,72,37364.35355
+613,394205,"Montrey, Nicaela",Female,24,in-person,Economics and Finance,55,31331.65571
+614,532690,"Aguirre, Ladaisha",Female,18,online,Political Science,43,38738.0142
+615,521046,"Romero, Kimberly",Female,22,online,Political Science,49,33641.73103
+616,774278,"Behr, Karl",Male,55,in-person,Mathematics and Statistics,71,36451.77061
+617,411195,"Galvan, Selena",Female,20,in-person,Economics and Finance,43,26235.13457
+618,571311,"Meeks, Shivani",Female,22,online,Economics and Finance,58,36433.02889
+619,837316,"Carroll, Ryan",Male,20,online,Economics and Finance,43,38483.72599
+620,223835,"Datta, Joel",Male,18,in-person,Environmental Sciences,93,56251.62873
+621,375119,"Thanh, Davon",Male,20,in-person,Biology,78,44147.76652
+622,537813,"Lopez, Aason",Female,21,in-person,Economics and Finance,77,42615.12521
+623,269392,"Degenhart, Amy",Female,25,online,Mathematics and Statistics,60,38758.77897
+624,547391,"Gonzales, Meikko",Female,23,in-person,Biology,67,36409.50602
+625,423213,"Marler, Theolian",Male,20,online,Social Sciences,94,43066.60909
+626,607721,"Horton, Vien",Male,21,online,Biology,87,39612.47567
+627,197076,"Zekaria, Amanda",Female,20,in-person,Political Science,73,32916.5963
+628,918215,"Hernandez, Yannell",Female,21,online,Political Science,94,45286.13245
+629,337334,"Jackson, Katherine",Female,22,online,Environmental Sciences,57,31703.38063
+630,642239,"Billingsley, Kayla",Female,21,online,Social Sciences,73,41132.29294
+631,631034,"Soto Jr, Lizeth",Female,20,in-person,Economics and Finance,57,20773.12519
+632,910920,"Lohrenz, Alex",Male,20,in-person,Political Science,78,34869.5075
+633,386164,"Hiromitsu, Larue",Male,20,online,Environmental Sciences,74,48456.78746
+634,689675,"Charles, Zachary",Male,19,online,Economics and Finance,96,62360.01908
+635,409246,"Vang, Jordan",Male,23,online,Environmental Sciences,65,57196.49659
+636,426069,"Ngiateng, Jacob",Male,20,online,Environmental Sciences,69,59480.842
+637,775688,"Bernstine, Brandon",Male,19,online,Environmental Sciences,96,50373.10604
+638,477202,"Quick Bear, Patrick",Male,19,in-person,Political Science,82,47665.89303
+639,841894,"Mills, William",Male,23,online,Social Sciences,73,31723.23986
+640,801132,"Rahman, Charlotte",Female,20,online,Social Sciences,49,35632.14079
+641,155430,"Materon, Marisol",Female,20,in-person,Mathematics and Statistics,70,48118.37091
+642,411399,"Vassel, Rachelle",Female,20,in-person,Mathematics and Statistics,77,33530.29802
+643,948092,"Perry, Mckenna",Female,20,online,Economics and Finance,96,40803.80341
+644,575895,"Wallace, Forest Green",Female,22,in-person,Political Science,75,46576.10439
+645,985960,"Lester, Peter",Male,23,online,Environmental Sciences,85,43082.77822
+646,357001,"Nguyen, Tyler",Male,21,in-person,Biology,71,43250.65428
+647,605010,"Torres, Darion",Female,23,in-person,Economics and Finance,59,43325.31193
+648,599667,"Ramirez, Donald",Male,21,online,Political Science,68,72787.28668
+649,606238,"Garcia Hernandez, Jasmine",Female,20,online,Mathematics and Statistics,59,29626.86038
+650,741864,"Canas, Alison",Female,25,in-person,Biology,50,19855.6943
+651,456552,"Watkins, Yea",Female,21,in-person,Political Science,82,41158.08154
+652,937660,"Rodriguez, Dahlia",Female,22,in-person,Biology,50,36180.22814
+653,497075,"Segura, Jocellin",Female,20,in-person,Biology,41,27408.49267
+654,602560,"Juarez-Herrera, Dori",Female,20,online,Social Sciences,68,39710.79766
+655,419070,"Walker, Dallana",Female,21,online,Economics and Finance,51,38887.78262
+656,971054,"Melendez-Alcantar, Xavi",Female,21,in-person,Mathematics and Statistics,50,38008.97844
+657,970911,"Golden, Priscilla",Female,22,online,Mathematics and Statistics,72,38768.82232
+658,364152,"Masingale, Maomao",Male,52,online,Social Sciences,87,70094.84888
+659,934357,"Dedios, Khamsouk",Male,23,online,Biology,64,43015.46148
+660,490824,"Corpuz, Deondre",Male,20,online,Social Sciences,46,58612.84805
+661,921305,"Bui, Samuel",Male,20,in-person,Biology,73,44983.99524
+662,462992,"Collier, Michael",Male,21,online,Environmental Sciences,66,59288.03173
+663,767937,"Lucero, Mersadez",Female,21,online,Biology,39,34317.3152
+664,542732,"Chavez, Yolanda",Female,21,online,Mathematics and Statistics,53,22060.65687
+665,256839,"Tso, Mario",Male,24,online,Political Science,75,61102.02675
+666,686461,"Riley-King, Jane",Female,21,in-person,Environmental Sciences,61,36207.6944
+667,266076,"Steenburgh, Darren",Male,21,in-person,Social Sciences,78,42951.06119
+668,437820,"Ishii, Alexis",Male,21,online,Economics and Finance,72,39492.44865
+669,841378,"Rivera Munoz, Jose",Male,25,online,Social Sciences,58,28707.85312
+670,846834,"Ales, Kylie",Female,21,online,Mathematics and Statistics,73,34775.0559
+671,594278,"Yussufu, Kaitlyn",Female,22,online,Social Sciences,70,33692.99327
+672,358742,"Bellerive, Chandler",Female,23,online,Social Sciences,65,43024.9237
+673,725066,"Pak, Jacob",Male,19,online,Biology,68,49121.87015
+674,306442,"Figgs, Aaron",Male,23,online,Political Science,46,44776.9159
+675,832596,"Watson, John",Male,19,online,Environmental Sciences,87,42495.44398
+676,442195,"Lee, Adrian",Male,24,in-person,Biology,63,52343.76033
+677,471913,"Moreland, Ethen",Male,20,in-person,Biology,65,36599.27042
+678,648340,"Nguyen, Amanuel",Male,21,online,Environmental Sciences,90,43756.57926
+679,533127,"Levesque, Ian",Male,20,online,Environmental Sciences,49,41163.65455
+680,491541,"Lewis, Charles",Male,19,online,Economics and Finance,51,33476.60003
+681,145718,"Verdos, Adrian",Male,21,in-person,Social Sciences,76,48573.8517
+682,812467,"Dorado, Alexis",Female,19,online,Environmental Sciences,82,38479.94408
+683,677171,"Myong, Marquez",Male,20,online,Mathematics and Statistics,74,61067.56777
+684,663553,"Untalan, Velasquez",Male,22,online,Environmental Sciences,64,55800.95979
+685,309827,"Wilhite, Tori",Female,21,in-person,Environmental Sciences,43,26097.73519
+686,560028,"Norton, Nicholas",Male,26,online,Social Sciences,87,33902.00043
+687,731560,"Bear, Jethro-Eli",Male,48,online,Biology,69,50206.14187
+688,768418,"Hong, Tyree",Male,23,online,Economics and Finance,65,37850.91489
+689,572551,"Gay, Jenni",Female,20,online,Political Science,84,43755.4504
+690,182706,"Martinez, Samuel",Male,21,online,Economics and Finance,72,40913.35322
+691,953820,"Shorty, Alissa",Female,19,online,Economics and Finance,79,47326.79144
+692,898710,"Lyon, Megan",Female,21,online,Social Sciences,56,29216.61781
+693,468954,"Anderson, Nicole",Female,25,online,Environmental Sciences,52,25445.58294
+694,425362,"Salas, Barbara",Female,21,online,Biology,51,32194.59225
+695,263937,"Terry, Justin",Male,24,online,Economics and Finance,94,58178.58433
+696,905793,"Flores, Paris",Female,20,in-person,Social Sciences,68,34077.58553
+697,176776,"Ocanas, Vernaye",Female,20,online,Economics and Finance,77,35199.86371
+698,209894,"Han, Aldo",Male,21,online,Economics and Finance,81,29316.83188
+699,566958,"Lee, Phillip",Male,22,online,Political Science,91,53876.87551
+700,645027,"Dimas-Williams, Daria",Female,43,in-person,Environmental Sciences,48,41273.98056
+701,954824,"Hoang, Andreas",Male,19,in-person,Environmental Sciences,89,46974.98243
+702,644759,"Martinez, Jeremy",Male,21,online,Social Sciences,92,51017.43604
+703,950064,"Williams, Carl",Male,22,online,Biology,77,34468.46827
+704,287354,"Landry, Gilbert",Male,21,in-person,Mathematics and Statistics,64,37554.0138
+705,738972,"Fink, Schyler",Male,22,online,Social Sciences,93,50360.62885
+706,275978,"George, Terry",Male,24,in-person,Biology,49,32838.25195
+707,317686,"Kawamura, Matthew",Male,25,in-person,Economics and Finance,88,52587.05873
+708,341323,"Cobbins, Kateri",Female,19,online,Environmental Sciences,83,38884.3708
+709,824558,"Khanal, Theodore",Male,22,online,Economics and Finance,47,53928.99216
+710,430689,"Kendall, Amantema",Male,23,in-person,Mathematics and Statistics,76,53371.55151
+711,509375,"Fluetsch, Alon'E",Male,21,online,Biology,86,42801.21504
+712,728977,"Mattern, Gabriel",Male,38,online,Environmental Sciences,83,56853.81379
+713,637550,"Flores, Margarita",Female,22,online,Political Science,93,37709.72956
+714,595839,"Ariaz, Melissa",Female,21,online,Mathematics and Statistics,60,34855.80353
+715,840378,"Weber, Marcus",Male,24,in-person,Social Sciences,78,58133.20978
+716,579097,"Velazquez, Stephanie",Female,19,online,Mathematics and Statistics,84,39135.67584
+717,415509,"Lopez, Tyler",Male,19,online,Environmental Sciences,90,40882.83535
+718,163521,"Mascarenaz, Erica",Female,22,in-person,Mathematics and Statistics,47,28281.25028
+719,676636,"Young, Leyla",Female,21,in-person,Social Sciences,63,32539.14609
+720,420995,"Aofia, Michael",Male,21,online,Mathematics and Statistics,63,55068.7269
+721,839045,"Gibson, Leeanne",Female,21,online,Political Science,75,31538.50718
+722,147207,"Barkers, Tina",Female,22,in-person,Economics and Finance,50,17552.54847
+723,380497,"Zander, Blake",Male,56,online,Economics and Finance,72,37119.17681
+724,854188,"Lopez, Jasper",Male,44,online,Environmental Sciences,63,55860.90432
+725,273444,"Diep, Osvaldo",Male,21,online,Political Science,72,45850.63516
+726,866648,"Krishnan, Tylor",Male,26,online,Economics and Finance,43,24694.91265
+727,262113,"Heyward, Conor",Male,22,online,Biology,94,48453.00423
+728,567590,"Nagel, Efrain",Male,22,online,Political Science,63,57091.46248
+729,943880,"Guo, Humberto",Male,21,online,Mathematics and Statistics,82,48904.29012
+730,594474,"Eichie, Samantha",Female,21,online,Social Sciences,66,34371.44642
+731,648067,"Blocker, Mayra",Female,24,online,Environmental Sciences,44,34849.21479
+732,641978,"Proctor, Sophearath",Female,20,in-person,Mathematics and Statistics,43,28125.03134
+733,940781,"Childress, Avey",Female,21,online,Environmental Sciences,81,52930.7619
+734,632219,"Terrazas, Rosangelica",Female,22,online,Mathematics and Statistics,64,29783.7593
+735,311901,"Lattimer, Steven",Male,20,online,Social Sciences,72,47613.40818
+736,394956,"The, Roger",Male,22,online,Biology,90,45818.55306
+737,291406,"Saenz, Sebastian",Male,20,in-person,Mathematics and Statistics,57,53682.70811
+738,234038,"Williams, Richard",Male,21,online,Political Science,73,44725.97032
+739,166592,"Rockwell, Brandon",Male,21,online,Social Sciences,76,45942.99839
+740,415647,"Keese, Matthew",Male,21,online,Biology,66,61023.75202
+741,680453,"Nelms, Hannah",Female,22,online,Environmental Sciences,47,26721.84073
+742,465662,"Matthews, Dakota",Male,23,online,Political Science,65,60414.20593
+743,146915,"Eisenbarth, Jaquon",Male,20,online,Biology,46,36488.98065
+744,933428,"Davidson, Veronica",Female,23,online,Social Sciences,76,36218.48178
+745,715472,"Hill, Kelsey",Female,21,online,Mathematics and Statistics,56,41806.47756
+746,706758,"Juarez, Anabel",Female,21,in-person,Economics and Finance,58,32055.08294
+747,822123,"Lechuga, Aidan",Male,19,in-person,Biology,87,45176.64529
+748,323608,"Kief, Kenneth",Male,20,online,Mathematics and Statistics,70,56720.38726
+749,365756,"Petersen, Skylar",Male,22,in-person,Environmental Sciences,62,70931.61002
+750,862330,"Mo, Avery",Male,19,online,Economics and Finance,57,24409.72846
+751,646747,"Cruz, Jesseka",Female,24,online,Mathematics and Statistics,48,13300.1062
+752,220811,"Diamond, Tilane",Female,20,online,Economics and Finance,83,46398.33851
+753,253489,"Denicola, Juan",Male,18,online,Mathematics and Statistics,56,63199.06624
+754,669688,"Shemel, Joshua",Male,22,online,Social Sciences,79,37028.64398
+755,362425,"Xie, Armando",Male,23,in-person,Mathematics and Statistics,77,53511.77025
+756,808052,"Woods, Savannah",Female,19,online,Economics and Finance,84,33234.78298
+757,303676,"Stoltenberg, Dylan",Male,20,online,Mathematics and Statistics,76,34179.75291
+758,947410,"Wang, Maverick",Male,21,online,Social Sciences,64,57905.8291
+759,128747,"Eliopulos, Tessa",Female,22,in-person,Biology,94,43191.39645
+760,415149,"Mack, Tristin",Female,23,in-person,Environmental Sciences,74,39301.02369
+761,289052,"Lehi, Rohun",Male,22,online,Mathematics and Statistics,67,35605.86614
+762,390728,"Grim, Michael",Male,19,online,Economics and Finance,74,42855.00328
+763,799064,"Leong, Russell",Male,19,online,Environmental Sciences,95,54455.96631
+764,270572,"Duvall-Valverde, Liliana",Female,22,online,Economics and Finance,45,14709.40754
+765,165901,"Mendoza, Lexus",Female,22,online,Economics and Finance,74,30484.0274
+766,747054,"Namlong, Carlitos",Male,19,online,Social Sciences,86,51836.25116
+767,802716,"Butler, Cheyenne",Female,20,online,Biology,46,26031.96786
+768,411343,"Harney, John",Male,23,online,Mathematics and Statistics,77,51332.4885
+769,822522,"Cruz Medel, Christina",Female,23,online,Economics and Finance,79,42233.96254
+770,590252,"Strah, Taylor",Female,21,online,Mathematics and Statistics,57,37929.93318
+771,211938,"Didde, Diangelo",Male,19,online,Economics and Finance,94,40959.17313
+772,186245,"Endo, Fredrick",Male,21,online,Social Sciences,70,33688.11549
+773,241453,"Yeturi, Devin",Male,19,in-person,Mathematics and Statistics,68,58449.33294
+774,433131,"Mutahi, Khristopher",Male,23,in-person,Environmental Sciences,77,47871.75373
+775,939884,"Martinez, Dennis",Male,20,online,Political Science,72,48164.23128
+776,646531,"Ashalintubbi, Christopher",Male,23,online,Political Science,90,47246.8062
+777,613739,"Brough, Milton",Male,23,online,Biology,89,53637.18229
+778,687143,"Hubbs, Jayden",Male,19,in-person,Mathematics and Statistics,60,57527.17434
+779,188492,"Kuge, Ezquel",Male,22,online,Social Sciences,92,43796.67688
+780,571211,"Turner, Jessica",Female,20,in-person,Social Sciences,72,35553.61874
+781,337141,"Skarda, Jessika",Female,40,online,Mathematics and Statistics,73,34200.5439
+782,559518,"Howard, Ngan",Female,22,online,Mathematics and Statistics,67,43039.05417
+783,276036,"Nguyen, Kerry",Male,27,in-person,Social Sciences,49,44492.96741
+784,572624,"Martinez, Laryssa",Female,21,in-person,Political Science,63,33300.31626
+785,786466,"Ennis, Andrew",Male,22,online,Environmental Sciences,57,43528.95806
+786,575898,"Javaid, Jose",Male,21,online,Biology,56,51907.97786
+787,124687,"Than, Jonathan",Male,22,in-person,Mathematics and Statistics,69,49004.72712
+788,952528,"Celestino, Kurt",Male,22,in-person,Environmental Sciences,72,57247.82914
+789,540470,"Ramirez, Brooke",Female,21,online,Biology,52,25217.08047
+790,785674,"Ryan, Prontipp",Female,22,online,Biology,69,44884.18296
+791,396035,"Remillard, Sungjin",Male,25,online,Biology,93,55139.19051
+792,699675,"Robinson, Kyle",Male,46,in-person,Mathematics and Statistics,59,54851.41237
+793,450135,"Sneed, Eric",Male,20,online,Biology,91,37790.93953
+794,466449,"Leblanc, Xiaoyun",Female,22,online,Environmental Sciences,47,36870.6885
+795,178668,"Minor, Sebastian",Male,22,in-person,Mathematics and Statistics,80,41263.86408
+796,510112,"Anderson, Emily",Female,20,online,Political Science,52,30902.89282
+797,379229,"Nuttall, Emily",Female,23,online,Political Science,45,28159.27279
+798,514641,"Hearns, Lauren",Female,21,online,Environmental Sciences,41,34373.99397
+799,227620,"Weisenborn, Bryce",Female,22,online,Social Sciences,78,46714.36995
+800,625866,"Williams, Lane",Male,23,online,Mathematics and Statistics,70,47732.0466
+801,362835,"Lofton, Kaleb",Male,23,in-person,Economics and Finance,70,34601.07419
+802,643415,"Haas, Ian",Male,22,online,Political Science,78,43794.00942
+803,405828,"Bear-Flores, Daniel",Male,21,in-person,Political Science,65,42484.9275
+804,928609,"Boston, Sara",Female,19,online,Mathematics and Statistics,48,29531.19894
+805,277240,"Laping, Alexander",Male,20,in-person,Economics and Finance,65,43293.39305
+806,832111,"Reeves, Sophie",Female,23,online,Biology,47,25455.66907
+807,542948,"Potter, Kaden",Male,20,online,Environmental Sciences,70,58613.80008
+808,851284,"Ho, Jose",Male,23,online,Social Sciences,78,42234.52306
+809,749390,"Ibarra, Dorian",Female,22,online,Mathematics and Statistics,72,34319.47275
+810,193855,"Villalobos Herrera, Regina",Female,20,online,Environmental Sciences,53,25706.95935
+811,501826,"Mayes, Jake",Male,22,online,Political Science,85,50508.15632
+812,766735,"Salmon, James",Male,19,in-person,Political Science,90,49704.76729
+813,794258,"Al Amin, Jacob",Male,21,online,Political Science,93,44989.32738
+814,308564,"Lewis, Savannah",Female,23,online,Economics and Finance,46,31506.68346
+815,484605,"Kinslow, Wade",Male,21,online,Economics and Finance,60,34168.17036
+816,587073,"Johnson, Amanda",Female,61,online,Biology,60,30796.15716
+817,753590,"Polk, Tyson",Male,25,online,Environmental Sciences,58,23307.70447
+818,511204,"Moua, Joaquin",Male,23,online,Mathematics and Statistics,55,40135.76291
+819,850877,"Yates, Lucas",Male,19,online,Environmental Sciences,93,51528.68171
+820,672439,"Nevarez Alcantar, Destinee",Female,23,online,Mathematics and Statistics,78,39101.93989
+821,203349,"Kee, Anthony",Male,21,online,Biology,78,45172.30226
+822,440547,"Chavez, Mariah",Female,19,online,Social Sciences,75,45614.38544
+823,196294,"Yen, Ricardo",Male,23,in-person,Political Science,61,57710.71909
+824,518904,"Barber, Rebecca",Female,24,online,Economics and Finance,51,28338.17215
+825,248878,"Benson, Zachary",Male,23,in-person,Social Sciences,91,53074.26246
+826,860588,"Upschulte, William",Male,20,in-person,Social Sciences,71,41685.63174
+827,442445,"Diaz, Ciera",Female,21,online,Mathematics and Statistics,89,47760.48273
+828,614482,"Nunez, Leeasia",Female,20,online,Economics and Finance,60,33606.85339
+829,499214,"Haggard, Hannah",Female,64,online,Mathematics and Statistics,74,34831.01943
+830,571895,"Gore, Kenneth",Male,21,in-person,Environmental Sciences,88,57849.34349
+831,576315,"Sanchez, Vanessa",Female,21,in-person,Economics and Finance,70,42346.58878
+832,531434,"Asmerom, Keith",Male,22,online,Political Science,77,33021.16964
+833,609959,"Griego, Dillon",Male,20,online,Biology,49,41453.51129
+834,397699,"Russell, Mikayla",Female,23,in-person,Political Science,67,37854.6558
+835,948736,"Mcgirt, Nathan",Male,21,in-person,Social Sciences,90,44700.41408
+836,716460,"Ruiz Olguin, Breeanna",Female,19,online,Economics and Finance,86,40167.98815
+837,806767,"Rock, Michael",Male,22,online,Economics and Finance,92,52416.59145
+838,936921,"Wright, Carlos",Male,19,in-person,Biology,66,36275.91016
+839,681197,"Aguirre, Keira",Female,23,online,Mathematics and Statistics,72,41374.97696
+840,294686,"Sa, David",Male,22,in-person,Social Sciences,76,40285.02515
+841,796433,"Bromell, Bailey",Female,20,in-person,Biology,61,26124.30672
+842,520250,"Herman, Jacob",Male,20,online,Economics and Finance,80,34485.16661
+843,394428,"Ragona, Alan",Male,21,online,Economics and Finance,53,45047.54041
+844,556892,"Karaffa, Hector",Male,21,online,Social Sciences,91,44449.71048
+845,287975,"Van, Bryan",Male,20,online,Economics and Finance,72,57131.61137
+846,511991,"Tat, Drew",Male,21,online,Environmental Sciences,39,40944.50895
+847,774391,"Flinn, Amanuail",Male,22,online,Political Science,95,59879.061
+848,976300,"Trojahn, Kevin",Male,21,online,Biology,53,29757.08056
+849,451969,"Nhean, Tosh",Male,20,online,Economics and Finance,82,59622.89682
+850,813716,"Harrier, Jayden",Male,21,online,Economics and Finance,70,41990.73045
+851,901358,"Guardado, Elizabeth",Female,21,in-person,Mathematics and Statistics,79,42017.83852
+852,919276,"Bushman, Uriel",Male,20,in-person,Environmental Sciences,68,41224.81874
+853,308642,"Collier, Matthew",Male,21,online,Economics and Finance,78,57805.1414
+854,630376,"Gomez, Destiny",Female,22,in-person,Economics and Finance,81,50138.74108
+855,923392,"Lee, Marcellus",Male,22,in-person,Environmental Sciences,63,57628.75709
+856,440420,"Medina, Courtney",Female,22,online,Mathematics and Statistics,80,36688.41687
+857,511398,"Nguyen, Victor",Male,23,online,Mathematics and Statistics,47,56181.52023
+858,593204,"Stoner, Alyssa",Female,21,in-person,Environmental Sciences,63,33604.44821
+859,475422,"Madera, Isabella",Female,19,online,Social Sciences,54,43921.70054
+860,235616,"Polson, Michael",Male,20,online,Mathematics and Statistics,82,53282.24825
+861,227666,"Manus, Joshua",Male,21,online,Environmental Sciences,86,45918.99757
+862,929666,"Newton, Gourisankar",Male,22,online,Political Science,73,50416.15894
+863,129905,"Welch, Travis",Male,18,online,Social Sciences,66,48013.40457
+864,804749,"Jimenez, Hershelle",Female,22,online,Mathematics and Statistics,57,29832.21787
+865,198288,"Williams, Trang",Female,22,online,Political Science,75,38491.65312
+866,244176,"Hardman, Isaiha",Male,47,online,Environmental Sciences,93,56157.26195
+867,884495,"Kim, Chauncy",Male,24,online,Political Science,69,36805.50707
+868,771058,"Farrell, Aldo",Male,18,online,Political Science,92,46306.61599
+869,547207,"Stitt, Adam",Male,20,in-person,Environmental Sciences,88,50363.35115
+870,424578,"Smith-Dawson, Isabelle",Female,18,in-person,Social Sciences,73,36589.21292
+871,152122,"Baker, Victoria",Female,20,in-person,Mathematics and Statistics,55,30183.9305
+872,744620,"Dumas, Ved",Male,20,online,Political Science,74,40317.79387
+873,784220,"Edwards, Justin",Male,19,online,Economics and Finance,94,46924.16602
+874,613716,"Manlove, David",Male,22,online,Environmental Sciences,41,41041.5986
+875,772906,"Union, Megan",Female,21,in-person,Economics and Finance,78,39084.70943
+876,941281,"Mullin, Luis",Male,20,in-person,Environmental Sciences,89,61432.2084
+877,555969,"Rudd, Savanna",Female,23,in-person,Biology,71,37275.09048
+878,275274,"Todd, Hyun Jeung",Female,23,online,Political Science,77,38746.5298
+879,643691,"Neuhaus, Kaylee",Female,18,online,Biology,70,29178.47035
+880,750960,"Sala, Duncan",Male,24,online,Environmental Sciences,69,52366.89913
+881,221168,"Williams, Sahara",Female,23,online,Mathematics and Statistics,72,23869.57307
+882,400123,"Nguyen, Aaron",Male,23,in-person,Biology,86,58760.81747
+883,813501,"Brown, Tisa",Female,22,online,Social Sciences,79,49111.49115
+884,905028,"Tom, Addam",Male,21,in-person,Mathematics and Statistics,55,47119.77885
+885,425349,"Velic, Carlyle",Female,21,online,Environmental Sciences,45,35987.41162
+886,616453,"Goldston, Justin",Male,20,online,Social Sciences,77,37656.94755
+887,437739,"Nickle, Daniel",Male,22,online,Environmental Sciences,42,35818.65844
+888,887121,"Garcia, Jamal",Male,37,in-person,Economics and Finance,73,35410.7879
+889,912116,"Duru, Hayden",Male,21,online,Environmental Sciences,85,37923.76655
+890,298125,"Hildebrand, Suchot",Male,21,online,Social Sciences,49,60996.3089
+891,730186,"Schauer, Lorena",Female,23,in-person,Social Sciences,77,43287.31884
+892,764909,"Sima, Khalil",Male,22,in-person,Social Sciences,65,43313.02204
+893,551817,"Blanco, Brandon",Male,19,online,Social Sciences,69,51866.92575
+894,639622,"Jones, Matthew",Male,24,online,Environmental Sciences,73,57010.1622
+895,819078,"Pegues, Armando",Male,22,online,Mathematics and Statistics,51,34717.7747
+896,154158,"Avila, Jesus",Male,20,online,Biology,67,44812.41359
+897,852272,"Vincenty, John",Male,21,in-person,Political Science,53,37149.11559
+898,215791,"Adams, Kuhu",Female,22,online,Environmental Sciences,80,41235.47522
+899,164390,"Sibilia, Marian",Female,22,online,Environmental Sciences,70,38211.14289
+900,912000,"Lemay, Zitlaly",Female,18,online,Environmental Sciences,80,52683.89721
+901,768807,"Morgan, Cherrise",Female,23,in-person,Mathematics and Statistics,63,39260.58911
+902,245154,"Woolfolk, Danvy",Female,21,online,Mathematics and Statistics,83,36708.75312
+903,287535,"Pruneda, Brittany",Female,20,online,Economics and Finance,80,43021.78636
+904,526849,"Rolfs, Sky",Female,59,in-person,Economics and Finance,53,35270.19209
+905,643899,"Terrill, Rubi",Female,20,in-person,Biology,74,31341.46754
+906,190974,"Terrones, Deionna",Female,26,online,Mathematics and Statistics,81,48552.40533
+907,436261,"Baak, Glen",Male,20,in-person,Biology,84,64012.32086
+908,882620,"Kallupalle, Hamdi",Male,19,online,Mathematics and Statistics,70,56732.15944
+909,523108,"Bailey, Vinh",Male,21,in-person,Economics and Finance,74,37966.33893
+910,590772,"Wright, Lindsay",Female,20,online,Political Science,49,22972.67788
+911,958176,"Gittens, Andre",Male,22,online,Social Sciences,92,56899.71485
+912,567950,"Lopez, Urey",Male,20,online,Biology,58,42604.54716
+913,832761,"Cusumano, Stephany",Female,19,in-person,Mathematics and Statistics,79,41504.57271
+914,405680,"Mcelhaney, Ty",Male,24,online,Mathematics and Statistics,63,42211.40605
+915,653718,"Perez, Jerry",Male,23,online,Biology,70,46063.93827
+916,901466,"Martinez, Nia",Female,19,online,Environmental Sciences,67,42353.98884
+917,205020,"Hill, Jasmine",Female,31,online,Biology,57,31806.91802
+918,518145,"Davis, David",Male,24,in-person,Environmental Sciences,88,40343.2821
+919,139052,"Taylor, Armando",Male,20,in-person,Mathematics and Statistics,40,34318.02375
+920,390114,"Jenkins, Vanessa",Female,20,online,Environmental Sciences,92,36683.05599
+921,480079,"White, Lana",Female,21,online,Political Science,40,24492.36269
+922,744509,"Abdella, Jonathan",Male,23,online,Economics and Finance,92,62192.25594
+923,749611,"Gutierrez-Batalla, Tatiyana",Female,19,in-person,Economics and Finance,51,38591.54131
+924,602871,"Stirmers, Ji",Male,24,online,Political Science,71,33960.12977
+925,143206,"Cox, Manuel",Male,22,in-person,Mathematics and Statistics,73,45733.5924
+926,391689,"Fischer, Jason",Male,19,online,Social Sciences,86,56954.08833
+927,304241,"Long, Danielle",Female,21,online,Environmental Sciences,90,32429.08784
+928,425533,"Bia Jr, James",Male,21,in-person,Political Science,40,36922.66206
+929,773044,"Watson, Ilse",Female,21,in-person,Environmental Sciences,61,39156.68995
+930,918190,"Box, Andrew",Male,18,in-person,Biology,89,45676.85895
+931,454408,"Struckhoff, Emma",Female,22,online,Biology,92,43636.97087
+932,429687,"Atmore, Zachary",Male,20,online,Social Sciences,92,54677.30235
+933,144673,"Christian, Tobby",Male,19,online,Mathematics and Statistics,71,42994.05327
+934,181738,"Simmons, Thalia",Female,22,online,Social Sciences,65,29043.64255
+935,597038,"Gallegos, Louie",Male,36,in-person,Economics and Finance,80,47675.66337
+936,590581,"Valverde-Moreno, Anchal",Female,23,online,Biology,60,36428.77991
+937,822075,"Griffin, Joshua",Male,23,in-person,Biology,75,44032.1149
+938,367512,"Yoshimura, Sean",Male,21,in-person,Biology,72,43059.20861
+939,822610,"Reyes, Alexandria",Female,19,in-person,Mathematics and Statistics,71,29703.1622
+940,320942,"Siu, Vince Eufred",Male,23,online,Biology,64,54267.01194
+941,201379,"Cobb, Rashaina",Female,21,in-person,Economics and Finance,41,26482.22047
+942,658578,"Tran, John",Male,22,in-person,Political Science,61,55082.50656
+943,473274,"Yi, Willie",Male,20,in-person,Political Science,76,38009.95662
+944,422951,"Ham, Aiyana",Female,23,online,Social Sciences,57,32154.94012
+945,361025,"Narayan, Lance",Male,20,online,Social Sciences,79,39496.52535
+946,800509,"Banks-Harris, Marcus",Male,25,online,Economics and Finance,61,57420.1856
+947,200553,"Littlejohn, Michael",Male,24,in-person,Social Sciences,43,43027.55258
+948,868569,"De Werd, Daejon",Male,24,online,Environmental Sciences,72,50075.85001
+949,615548,"Bushyhead, Andrew",Male,22,online,Biology,70,47427.7951
+950,246679,"Gradisar, Olivia",Female,20,online,Mathematics and Statistics,38,33965.70434
+951,963345,"Phipps, Gregorio",Male,22,online,Environmental Sciences,67,47444.1487
+952,532267,"Brown, Marriah",Female,22,in-person,Environmental Sciences,39,31381.29497
+953,783666,"Bae, Kedar",Male,21,online,Social Sciences,71,56960.16603
+954,822135,"Janney, Jenea",Female,24,online,Environmental Sciences,39,33125.22973
+955,647244,"Aquino-Benitez, Breaunna",Female,20,online,Mathematics and Statistics,77,42888.75207
+956,650120,"Leong, Sepehr",Male,22,online,Political Science,47,25591.85062
+957,917474,"Le, Chanthany",Male,21,in-person,Political Science,72,36534.18511
+958,677437,"Simkins, Autumn",Female,25,online,Political Science,67,56494.33642
+959,613201,"Sharif, Corey",Male,20,online,Social Sciences,64,49555.80823
+960,584939,"Guzman, Shauntece",Female,22,online,Political Science,92,34830.771
+961,345388,"Rodriguez, Katherine",Female,22,online,Social Sciences,83,39982.5565
+962,714747,"Edwards Jr, Derek",Male,31,online,Political Science,79,37415.03543
+963,634784,"Aberle, Michaela",Female,22,in-person,Environmental Sciences,54,35091.48662
+964,360012,"Athwal, Anthony",Male,23,online,Political Science,76,39358.78748
+965,391861,"Johnson, Alek",Male,25,in-person,Mathematics and Statistics,44,29185.29687
+966,262465,"Lewis, Andrew",Male,35,in-person,Biology,89,55888.36651
+967,174303,"Kim, John",Male,19,online,Mathematics and Statistics,76,61828.73586
+968,634243,"Liu, Bazin",Male,25,in-person,Environmental Sciences,91,66473.13653
+969,906012,"Thao, Victor",Male,40,online,Economics and Finance,59,27821.99011
+970,872801,"Hamilton, Mardi",Female,21,in-person,Political Science,68,36472.83298
+971,555549,"Vue, Jevin",Male,19,online,Economics and Finance,87,62858.83411
+972,977390,"Salazar, Jazmyn",Female,21,online,Environmental Sciences,82,48950.84288
+973,711687,"Pansze, Marissa",Female,26,in-person,Mathematics and Statistics,76,27312.48846
+974,209446,"Garduno, Autaum",Female,21,online,Social Sciences,89,41919.44976
+975,794953,"La'A, Adrian",Male,23,online,Biology,78,42622.51332
+976,270828,"Camposano, Onyx",Female,22,online,Biology,43,35840.89853
+977,778497,"Estrada, Caroline",Female,18,online,Economics and Finance,51,32038.40928
+978,812921,"Cozad, Daniella",Female,21,in-person,Economics and Finance,75,32029.74485
+979,429789,"Bencomo, Marina",Female,20,online,Biology,44,30656.10145
+980,371542,"Gay, Ryan",Male,24,online,Environmental Sciences,74,58380.59321
+981,320418,"Manriquez, Siobhan",Female,22,in-person,Economics and Finance,49,22804.08213
+982,658949,"Meeker, Tristin",Male,22,online,Biology,60,34094.27401
+983,947765,"Nghiem, Alexander",Male,21,online,Environmental Sciences,66,55980.19599
+984,717974,"Mccoy, Sean",Male,22,online,Political Science,69,47857.85541
+985,317925,"Akiyama, Tue",Male,19,in-person,Economics and Finance,77,44261.35389
+986,226389,"Nguyen, Mitchell",Male,20,in-person,Economics and Finance,78,59566.77875
+987,868909,"Campos, Destiny",Female,22,online,Biology,64,28790.9292
+988,229811,"Diaz, Sarah",Female,22,online,Political Science,82,48097.64417
+989,329155,"Mantripragada, I K N Clinton",Male,24,in-person,Political Science,75,43768.99866
+990,250523,"Hackett, Manuela",Female,22,in-person,Environmental Sciences,64,40379.90448
+991,842519,"Patterson, Julian",Male,21,online,Biology,62,39034.08137
+992,134026,"Cloutier, Kaylah",Female,23,online,Political Science,71,31873.98132
+993,255219,"Gary, Miguel",Male,22,online,Mathematics and Statistics,53,39562.52429
+994,166604,"Bowens, Jera",Female,21,online,Economics and Finance,52,23967.55056
+995,749377,"Lozen, Arely",Female,23,online,Biology,41,24143.27217
+996,522622,"Schmidtke, Maria",Female,23,online,Economics and Finance,50,24363.68573
+997,522602,"Zeng, Giovanni",Male,21,online,Political Science,32,36732.51005
+998,535044,"Yan, Elijah",Male,23,online,Biology,78,32206.84722
+999,460462,"Varner, Colin",Male,26,online,Mathematics and Statistics,71,37946.70042
+1000,596321,"Naitaqi, Dante",Male,23,online,Mathematics and Statistics,81,54647.32078
+1001,397168,"Anderson, Jose",Male,22,online,Economics and Finance,69,45258.61402
+1002,180209,"Lewis, Benjamin",Male,21,in-person,Political Science,42,39647.68348
+1003,425337,"Moye, David",Male,20,in-person,Mathematics and Statistics,73,35681.97943
+1004,717973,"Jones, Abraham",Male,54,online,Social Sciences,70,42283.71753
+1005,511564,"Barnes, Baylee",Female,20,online,Social Sciences,62,37468.47498
+1006,445020,"Alexander-Teel, Hannah",Female,20,in-person,Biology,75,33034.90655
+1007,322758,"Butcher, Hayden",Male,22,online,Biology,72,51239.72342
+1008,676722,"Williams, Emilio",Male,19,online,Biology,55,43781.33299
+1009,920111,"Tran, Malcolm",Male,46,online,Social Sciences,88,42246.50833
+1010,611012,"Taylor, Ryan",Male,22,online,Biology,69,38327.2137
+1011,848175,"Bridgeford, Sarah",Female,25,online,Biology,70,38798.39086
+1012,141477,"Carter-Holland, Henry",Male,19,online,Economics and Finance,58,38433.26868
+1013,874605,"Liu, Bronson",Male,22,in-person,Economics and Finance,46,32208.92012
+1014,627765,"Nguyen, Brandon",Male,27,online,Environmental Sciences,79,49069.77774
+1015,411602,"Hu, Ahnaf",Male,20,online,Economics and Finance,56,42407.2755
+1016,237621,"Works, Estiben",Male,21,online,Biology,76,42852.91129
+1017,762459,"Aguilar Natividad, Annika",Female,20,online,Economics and Finance,70,35260.71163
+1018,382523,"Ta, Humza",Male,19,online,Mathematics and Statistics,76,53294.84259
+1019,294858,"Sherlock, Brandon",Male,24,online,Environmental Sciences,82,41776.47472
+1020,213142,"Liberatore, Andrew",Male,20,online,Biology,75,39461.7776
+1021,737702,"Nelson, Juan",Male,25,in-person,Social Sciences,89,39337.20943
+1022,513397,"Chu, Gideon",Male,21,in-person,Economics and Finance,83,31188.57334
+1023,662190,"Sakai, Kekoa",Male,22,online,Biology,59,36965.31809
+1024,887428,"Gilbert-Mayes, Tyler",Male,21,online,Political Science,81,54008.33866
+1025,522651,"Finney, Andrea",Female,19,online,Biology,48,33511.19814
+1026,678552,"Matau, Daniel",Male,19,in-person,Social Sciences,69,58824.49903
+1027,463353,"Elie, Bradley",Male,20,online,Social Sciences,70,61853.83195
+1028,402499,"Hinh, Sengthong",Male,23,online,Economics and Finance,87,46847.07892
+1029,974296,"Heredia, Hue",Female,19,online,Political Science,76,40309.10782
+1030,457692,"Khatter, Tyler",Male,21,online,Mathematics and Statistics,66,52738.10404
+1031,743476,"Barisas, Aaron",Male,22,online,Environmental Sciences,53,38824.15411
+1032,752496,"Weaver, Tylan",Male,21,online,Biology,69,49223.29964
+1033,509640,"Heideman, Matthew",Male,22,in-person,Biology,88,42531.45773
+1034,789419,"Kwon, Terry",Male,22,online,Social Sciences,70,47959.00645
+1035,966285,"Griffin, Yantao",Male,20,online,Political Science,50,35062.55921
+1036,513336,"Alfaro, Veronica",Female,22,online,Political Science,44,33715.9733
+1037,361470,"Hudgins, Leo",Male,22,online,Social Sciences,85,46025.85353
+1038,289869,"Causey, Cameron",Male,25,in-person,Mathematics and Statistics,85,49997.4875
+1039,677803,"Lewis, Tyler",Male,20,online,Biology,50,37223.99238
+1040,272096,"Nishida, Fredrick",Male,22,online,Political Science,64,67357.92615
+1041,128775,"Johnson, Larissa",Female,18,online,Environmental Sciences,55,22313.32636
+1042,258774,"Simmons, Nyle",Male,21,online,Social Sciences,65,44782.26235
+1043,449891,"Atwater III, Devon",Male,20,online,Biology,54,26972.6075
+1044,581542,"Loesch, Sabrina",Female,19,in-person,Mathematics and Statistics,44,26658.86178
+1045,932972,"Nand, Qimin",Male,20,online,Social Sciences,92,54543.16171
+1046,578326,"Devi, Daniel",Male,19,in-person,Economics and Finance,71,36630.73921
+1047,758545,"Greenwell, Angelee",Female,21,online,Economics and Finance,73,35206.5416
+1048,541567,"Ferguson, Saurabh",Male,23,online,Economics and Finance,90,39134.74489
+1049,530661,"Griffie, Eugene",Male,21,online,Economics and Finance,91,64539.88869
+1050,517832,"Brown, Harold",Male,19,in-person,Mathematics and Statistics,67,56869.77624
+1051,629831,"Cale, Ashley",Female,23,in-person,Social Sciences,63,37312.85357
+1052,681365,"Williams, Pablo",Male,25,online,Biology,88,39111.9216
+1053,193226,"Thoms, Monique",Female,19,online,Environmental Sciences,55,53908.5995
+1054,805428,"Newton, Jacob",Male,20,online,Environmental Sciences,84,52275.27675
+1055,582282,"Elpuz, Ken",Male,22,online,Political Science,77,53268.11753
+1056,242831,"Garcia, Bu Sun",Female,19,online,Mathematics and Statistics,78,41079.42318
+1057,654527,"Intaratat, Micah",Male,20,in-person,Mathematics and Statistics,75,61861.8622
+1058,120552,"Luebano, Joi",Female,20,online,Political Science,76,34967.70439
+1059,765821,"Kang, Jan Jharize",Male,21,online,Biology,70,48653.14679
+1060,482774,"Scott, Misael",Male,24,in-person,Social Sciences,76,43245.18656
+1061,201678,"Cooper, Jack",Male,21,in-person,Economics and Finance,64,43791.21202
+1062,908850,"Tran, Cory",Male,20,online,Social Sciences,79,56317.58332
+1063,661763,"Yang, David",Male,21,online,Political Science,90,42422.63502
+1064,370856,"Diffenderfer, Andrea",Male,21,online,Biology,44,32334.04416
+1065,925809,"Wong, Aaron",Male,18,online,Political Science,62,39298.00728
+1066,542563,"Castaneda-Romero, Olivia",Female,21,in-person,Biology,87,41133.10063
+1067,912943,"Murphy, Gage",Male,24,in-person,Political Science,66,37798.28405
+1068,253803,"Agboglo, Andres",Male,21,in-person,Mathematics and Statistics,72,38513.05168
+1069,547241,"Wagner Spikes, Zvi",Female,20,in-person,Economics and Finance,88,45545.79232
+1070,385506,"Stahl, Anthony",Male,18,online,Social Sciences,68,52062.54889
+1071,197837,"Lewis, Alex",Male,21,in-person,Mathematics and Statistics,84,55660.20416
+1072,773726,"Merrill, Kashaun",Male,21,online,Biology,74,49474.96574
+1073,756854,"Kue, Kendrick",Male,24,in-person,Biology,55,55693.3573
+1074,490086,"Doerr, Robel",Male,21,in-person,Political Science,93,67278.11292
+1075,481361,"Hughes, Javier",Male,19,in-person,Economics and Finance,77,55726.0961
+1076,387763,"Anglin, Gabriel",Male,22,online,Mathematics and Statistics,71,42533.40038
+1077,969474,"Rakestraw, Ruby",Female,47,online,Economics and Finance,81,51963.77968
+1078,395840,"La, Huseen",Male,21,online,Biology,60,57948.65112
+1079,862959,"Sanchez, Khampeng",Female,26,online,Social Sciences,76,31660.87118
+1080,526366,"Spetsas, Ebony",Male,19,online,Environmental Sciences,85,53834.89125
+1081,263118,"Dargahi, Alexis",Female,22,online,Environmental Sciences,79,38989.61387
+1082,896301,"Johnson, Greyland",Male,19,online,Environmental Sciences,81,56015.67544
+1083,781388,"Wada, Vinay",Male,24,online,Social Sciences,67,55899.4617
+1084,895150,"Conti, Milo",Male,54,online,Environmental Sciences,85,45702.88957
+1085,511967,"Shrestha, Kasimir",Male,24,online,Biology,91,54680.65283
+1086,857227,"Liles, Nathan",Male,19,in-person,Political Science,75,49976.93715
+1087,695657,"Madrill, Grace",Female,19,online,Economics and Finance,73,25272.70248
+1088,473749,"Donley, Amber",Female,22,online,Environmental Sciences,53,47791.2197
+1089,709928,"Danner, Eduardo",Male,20,online,Social Sciences,91,52383.91404
+1090,347175,"Everett, Daniel",Male,23,online,Biology,90,46574.02426
+1091,225688,"Shepherd, Michael",Male,23,in-person,Political Science,85,45294.83994
+1092,399739,"King, Prakhar",Male,21,in-person,Biology,61,39436.54925
+1093,337281,"Hanckel, Mikayla",Female,21,online,Political Science,85,27338.02506
+1094,132839,"Mendoza, Sendy",Female,23,online,Mathematics and Statistics,70,38048.29284
+1095,261700,"Adams, Edwin",Male,19,online,Political Science,72,39789.56925
+1096,815956,"Farley, Marina",Female,21,in-person,Economics and Finance,44,26950.55841
+1097,529136,"Gill, Lakota",Male,20,in-person,Biology,92,54494.9356
+1098,527540,"Trowell, Justin",Male,23,online,Biology,70,43516.37662
+1099,384661,"Offord, Brandon",Male,20,online,Mathematics and Statistics,50,40318.84742
+1100,316772,"Doan, Jeremiah",Male,21,in-person,Mathematics and Statistics,47,37363.1056
+1101,335511,"Soong, Brandon",Male,19,online,Biology,71,57318.04885
+1102,459810,"Martinez, Brittany",Female,22,in-person,Economics and Finance,45,21485.6209
+1103,527539,"Duong, Tyme",Male,21,online,Political Science,68,42592.82771
+1104,297291,"Cesar, Elizabeth",Female,20,in-person,Biology,66,35433.09215
+1105,722150,"Olander, Vanessa",Female,23,in-person,Political Science,52,34227.49216
+1106,669986,"Pernice, Miguel",Male,20,in-person,Social Sciences,62,40540.12462
+1107,341051,"Parham, Erick",Male,22,online,Environmental Sciences,83,50860.48985
+1108,531911,"Pedroza, Tayara",Female,18,in-person,Political Science,66,37245.86514
+1109,706945,"Abram, Carlos",Male,24,online,Economics and Finance,92,52979.80498
+1110,277261,"Yu, Javier",Male,20,online,Political Science,70,41138.70542
+1111,705548,"Koller, Elizabeth",Female,22,online,Economics and Finance,47,31497.09413
+1112,948960,"Reynolds, Tyler",Male,21,online,Social Sciences,70,54335.24165
+1113,919034,"Amadou, Naomi",Female,26,online,Political Science,93,32999.50223
+1114,550820,"Pham, Anthony",Male,18,online,Political Science,74,38764.39933
+1115,146484,"Strauss-Subia, Lance",Male,23,online,Social Sciences,95,58071.53528
+1116,557008,"Colombo-Davis, Ronald",Male,23,online,Biology,79,39687.65583
+1117,292452,"Beehler, Alan",Male,25,online,Biology,70,39075.85557
+1118,206546,"Kimbrel, Alexander",Male,19,online,Biology,71,37929.52093
+1119,589796,"Ballard, Danielle",Female,21,in-person,Biology,63,37934.97271
+1120,759358,"Geer, Alexandria",Female,21,in-person,Political Science,79,46318.75284
+1121,631253,"Powell, Rabecca",Female,21,online,Mathematics and Statistics,67,25350.69013
+1122,358448,"Kim, Joseph",Male,21,online,Economics and Finance,90,45861.4107
+1123,113718,"Mckinney, Brian",Male,22,in-person,Social Sciences,56,45158.136
+1124,373212,"Rosenbaum, Solumkenechukwu",Male,21,online,Social Sciences,54,49238.03702
+1125,513013,"Holum, Dameion",Male,22,online,Environmental Sciences,57,46653.1039
+1126,894126,"Yoshimura, Jeffrey",Male,23,in-person,Economics and Finance,61,42788.59677
+1127,352894,"Malone, Jonathan",Male,20,in-person,Biology,95,50014.29006
+1128,769418,"Huynh, Tarren",Male,22,online,Economics and Finance,74,31812.04946
+1129,118420,"Odom Jr, Cheyenne",Female,21,online,Environmental Sciences,66,19481.33381
+1130,775457,"Ismail, Marky",Male,20,in-person,Social Sciences,91,41163.78567
+1131,728190,"Lewis, Domenic",Male,24,online,Political Science,75,40202.64158
+1132,533968,"Rideout, Juan",Male,20,online,Biology,69,50225.82045
+1133,512220,"Harrell, Jordan",Male,25,in-person,Social Sciences,87,61615.84752
+1134,157587,"Kim, Benjamin",Male,24,in-person,Environmental Sciences,76,66607.29432
+1135,882176,"Lacour, Dominic",Male,21,online,Economics and Finance,54,37437.30722
+1136,943833,"Anglin, Tyler",Male,21,online,Mathematics and Statistics,77,38432.83749
+1137,831252,"Coons, Judith",Female,24,in-person,Mathematics and Statistics,52,35548.53811
+1138,416180,"Maclellan, Elias",Male,20,online,Social Sciences,77,39653.85778
+1139,326380,"Holmes, Jason",Male,21,online,Social Sciences,83,62478.72933
+1140,516155,"Hartman, Danaya",Female,24,online,Environmental Sciences,73,43667.41565
+1141,925640,"Newberry, Phoenix",Male,19,online,Economics and Finance,79,67230.09536
+1142,219830,"Anderson, Dylan",Male,19,in-person,Mathematics and Statistics,67,50861.45751
+1143,207149,"Nack, Reece",Male,26,in-person,Mathematics and Statistics,78,55656.78031
+1144,602889,"Tavares Gomes, Jerrad",Male,27,online,Mathematics and Statistics,57,45258.91466
+1145,216220,"Montgomery, Justice",Female,24,online,Biology,47,32462.41976
+1146,443735,"Irvin, Triston",Male,19,online,Social Sciences,76,47262.56619
+1147,696262,"Macasinag, Paulo",Male,20,online,Environmental Sciences,47,39442.80394
+1148,599119,"Tuitele-Britton, Davion",Male,22,in-person,Social Sciences,63,45135.45188
+1149,216050,"Cruz, Morgan",Male,20,in-person,Biology,68,43370.37957
+1150,870526,"Trujillo, Rowdy",Male,23,in-person,Social Sciences,54,36520.27723
+1151,793640,"Hughes, Damian",Male,22,online,Economics and Finance,92,40218.46047
+1152,547699,"Strohmeyer, Kaleia",Female,20,online,Social Sciences,57,38608.39478
+1153,495560,"Salazar, Javonte",Male,25,online,Economics and Finance,58,34467.64314
+1154,691224,"Nguyen, Marquis",Male,21,in-person,Economics and Finance,60,38471.68297
+1155,706855,"Llamas, Saroyia",Female,21,online,Economics and Finance,89,45241.25776
+1156,134229,"Esquivel, Talayshi",Female,21,online,Social Sciences,88,35106.01099
+1157,158550,"Fry, Katrell",Male,19,in-person,Social Sciences,63,53339.86814
+1158,981862,"Kane, Steven",Male,19,online,Biology,53,45191.63036
+1159,379706,"Nguyen, Seung",Male,20,in-person,Mathematics and Statistics,61,63633.9008
+1160,131191,"Hiemsouvahn, Zachary",Male,19,in-person,Political Science,59,41431.49812
+1161,199974,"Diane, Jesus",Male,23,in-person,Mathematics and Statistics,72,39358.56336
+1162,546990,"York, Angel",Female,21,in-person,Political Science,88,48360.52231
+1163,286766,"Spann, Jeffrey",Male,21,in-person,Economics and Finance,75,54141.45947
+1164,380644,"Kiflom, Michael",Male,22,online,Mathematics and Statistics,70,52703.29722
+1165,217995,"Piazza, Kylear",Male,26,online,Economics and Finance,73,53341.43769
+1166,771206,"Schroedl, Kristin",Female,21,online,Mathematics and Statistics,63,26882.32256
+1167,368143,"Marshall, Blake",Male,20,in-person,Biology,66,44099.95094
+1168,418117,"Estrada, Tia",Female,23,online,Economics and Finance,77,38015.31069
+1169,151400,"Boon, Dallen",Male,24,online,Economics and Finance,90,50142.0207
+1170,420389,"Casillas, Nicole",Female,22,online,Biology,67,49050.85828
+1171,619443,"Horton, Edgar",Male,23,online,Social Sciences,95,44691.30455
+1172,132623,"Calzada, Kiersten",Female,20,online,Biology,71,29021.96127
+1173,125812,"Younger, Randall",Male,25,online,Economics and Finance,91,43564.49437
+1174,850644,"Miller IV, Tiffany",Female,21,in-person,Social Sciences,55,38612.89308
+1175,895199,"Vu, Ace",Male,21,online,Social Sciences,82,67893.55998
+1176,159551,"Plascencia, Megan",Female,20,online,Social Sciences,85,45001.67137
+1177,214450,"Watson, Henry",Male,20,in-person,Political Science,91,52721.56178
+1178,639923,"Lewis, Mark",Male,20,online,Social Sciences,92,46576.68115
+1179,894097,"Strait, Amanda",Female,23,online,Mathematics and Statistics,73,39036.8838
+1180,841304,"Jones, Cheyenne",Female,22,in-person,Economics and Finance,57,42222.20509
+1181,476455,"Mcmenimen, Jaylen",Female,25,online,Economics and Finance,50,32390.24164
+1182,846250,"Allen, Angelica",Female,20,online,Biology,79,33422.54445
+1183,165741,"Salley, Robert",Male,22,online,Mathematics and Statistics,67,39840.36564
+1184,436950,"Donels, Guillermo",Male,25,online,Mathematics and Statistics,77,51687.75054
+1185,574100,"Bowman, Peter",Male,22,in-person,Biology,43,44828.78437
+1186,767534,"Habtamu, John",Male,19,in-person,Economics and Finance,51,32177.6822
+1187,884426,"Schooler, Michelle",Female,19,online,Biology,61,39920.09645
+1188,957161,"Chanaud, Christopher",Male,21,online,Political Science,83,39958.03454
+1189,136116,"Davis, Cody",Male,21,online,Biology,89,54803.98934
+1190,457102,"Lowder, Darian",Male,22,online,Mathematics and Statistics,65,41199.30543
+1191,118502,"Osborn-Torres, Salina",Female,21,in-person,Mathematics and Statistics,54,36911.26186
+1192,182974,"Aragon, Bethel",Female,21,online,Mathematics and Statistics,49,34287.96037
+1193,152383,"Eason, Racheal",Female,36,in-person,Biology,45,42177.15496
+1194,963305,"Kramer, David",Male,56,online,Mathematics and Statistics,71,42606.34723
+1195,475160,"Geddis, Hernan",Male,21,online,Environmental Sciences,89,47442.15682
+1196,587257,"Moala, Kenneth",Male,22,online,Environmental Sciences,91,50086.63515
+1197,586084,"Feaman, Jesse",Male,20,online,Biology,93,50913.03849
+1198,576597,"Chan, Taj",Male,21,in-person,Mathematics and Statistics,76,57415.39154
+1199,641064,"Io, Michael",Male,20,online,Political Science,92,52631.1504
+1200,869321,"Myagmarsuren, Richard",Male,21,online,Political Science,75,42244.67913
+1201,682706,"Barela, Amber",Female,23,in-person,Biology,46,33200.27493
+1202,371786,"Doan, Ian",Male,23,online,Political Science,86,47249.99062
+1203,918534,"Lobato, Monique",Female,20,in-person,Political Science,68,42536.12991
+1204,503148,"Ruiz, Ashanti",Female,22,online,Mathematics and Statistics,50,28046.20864
+1205,381343,"Alarid, Steven",Male,21,in-person,Mathematics and Statistics,56,29430.51967
+1206,892142,"Chee, Wyatt",Male,24,online,Economics and Finance,81,46293.44405
+1207,125459,"Prom, Jeffrey",Male,19,in-person,Economics and Finance,48,37829.95556
+1208,928424,"Le, Torrey",Male,20,online,Mathematics and Statistics,85,47244.03658
+1209,548908,"Duarte, Lynn",Female,20,online,Environmental Sciences,94,36243.86856
+1210,388780,"Ozuna, Selam",Female,22,online,Environmental Sciences,46,25272.72813
+1211,931368,"French-Stegall, Priscilla",Female,22,online,Mathematics and Statistics,49,24424.33223
+1212,149939,"Samide, Rocky",Male,20,in-person,Social Sciences,74,46127.31167
+1213,224781,"Tran, Sidharth",Male,21,in-person,Biology,89,50739.36604
+1214,843387,"Vongphackdy, Michael",Male,22,in-person,Political Science,44,31177.51552
+1215,810585,"Smith, Chance",Male,20,online,Environmental Sciences,92,56301.17992
+1216,893755,"Tran, Thien",Male,22,in-person,Political Science,43,41317.02792
+1217,117866,"Chen, Seong",Male,20,in-person,Economics and Finance,66,44555.02997
+1218,926928,"Yeung, Luigi",Male,20,online,Economics and Finance,95,52541.23721
+1219,158758,"Fletcher, Yesenya",Female,23,online,Mathematics and Statistics,60,46921.10248
+1220,626662,"Johnson, Maximiand",Male,21,in-person,Economics and Finance,76,36258.60256
+1221,122162,"Vigil, Amy",Female,24,in-person,Biology,86,36055.36176
+1222,377877,"Lane, Ryan",Male,19,online,Environmental Sciences,77,45582.76214
+1223,358909,"Greiman, Keziah",Female,23,online,Mathematics and Statistics,77,40598.59933
+1224,499777,"Craven, David",Male,19,online,Mathematics and Statistics,70,31971.22504
+1225,563388,"Dunkel, Victoria",Female,25,in-person,Social Sciences,76,48969.94787
+1226,159517,"Finney, Robert",Male,29,online,Social Sciences,75,71612.7081
+1227,795866,"Burgdorff, Christopher",Male,20,in-person,Mathematics and Statistics,65,47803.06667
+1228,446234,"Mishra, Enrico",Male,22,online,Social Sciences,87,30413.95931
+1229,654760,"Kamanawa, Harvey",Male,23,in-person,Mathematics and Statistics,66,30008.16028
+1230,206126,"Nguyen, Evan",Male,20,online,Environmental Sciences,81,49773.36109
+1231,635809,"Bermudez Frausto, Naudia",Female,21,online,Economics and Finance,79,34756.13351
+1232,903978,"Ramirez, Ashley",Female,22,in-person,Biology,62,34444.63995
+1233,477621,"Hampton, Ronald",Male,24,online,Mathematics and Statistics,47,31908.45573
+1234,460655,"Brauher, Deion",Male,23,in-person,Social Sciences,77,48746.04396
+1235,476680,"Moore IV, Kevin",Male,23,online,Economics and Finance,74,41924.62904
+1236,587107,"Bishop, Sarah",Female,22,in-person,Social Sciences,55,43318.40768
+1237,219503,"Eustace, Sandra",Female,30,in-person,Economics and Finance,57,39981.22984
+1238,488797,"Brohl, Precious",Female,32,online,Environmental Sciences,78,41847.04556
+1239,391050,"Sidberry, Marceen",Female,21,online,Mathematics and Statistics,84,42202.39262
+1240,364525,"Frazier, Dennis",Male,20,online,Mathematics and Statistics,61,25420.01946
+1241,312277,"Webster, Zhjade",Female,21,in-person,Mathematics and Statistics,47,25758.87532
+1242,398273,"Petrov, Quinn",Male,21,online,Economics and Finance,72,44385.84288
+1243,131364,"Adkinson, Lester",Male,21,online,Mathematics and Statistics,76,44396.80246
+1244,822798,"Garcia, Janay",Female,24,online,Biology,54,27956.28844
+1245,115122,"Bustamante, Tatiana",Female,21,online,Social Sciences,56,20443.2513
+1246,344866,"Ricks, Izaak",Male,21,online,Political Science,76,43318.00804
+1247,152243,"Le, Yeng",Male,19,in-person,Biology,87,52083.60762
+1248,387069,"Thurston, Autumn",Female,21,online,Political Science,92,50883.82848
+1249,161177,"Simon, Joshua",Male,21,online,Biology,59,30849.91589
+1250,281483,"Murray, Ryan",Male,61,in-person,Political Science,62,39413.48667
+1251,826532,"Hood, David",Male,20,online,Economics and Finance,95,43508.56802
+1252,475284,"Miller, Emilee",Female,20,online,Economics and Finance,85,37620.86426
+1253,323485,"Cote, Broderick",Male,21,online,Economics and Finance,51,42573.30908
+1254,257766,"Kelly, Antonio",Male,19,in-person,Biology,72,53418.19194
+1255,463967,"Lee, Phillip",Male,24,online,Environmental Sciences,92,50392.36888
+1256,394945,"Wright-Stanford, Brandon",Male,21,online,Economics and Finance,79,50949.08421
+1257,299439,"Cantu, Nelisa",Female,20,online,Social Sciences,78,35106.96186
+1258,975873,"Thompson, Joshua",Male,22,in-person,Mathematics and Statistics,56,37680.55458
+1259,166957,"Xu, Cody",Male,22,in-person,Mathematics and Statistics,77,49554.67915
+1260,910606,"Wu, Matthew",Male,20,online,Political Science,64,58970.41264
+1261,364576,"Hu, Hunter",Male,22,in-person,Social Sciences,48,29802.21886
+1262,664825,"Lane, Kaylisha",Female,21,online,Mathematics and Statistics,77,27569.09856
+1263,986181,"Phifer, Jonathan",Male,21,in-person,Political Science,68,60679.98793
+1264,644535,"Shen, David",Male,60,in-person,Political Science,85,53344.13124
+1265,640593,"Clark, Adam",Male,22,online,Economics and Finance,47,24185.77732
+1266,579534,"Ingram, Aubrey",Female,20,online,Environmental Sciences,76,38820.48395
+1267,959977,"Koeuth, Batamgalan",Male,21,in-person,Social Sciences,86,75596.79344
+1268,268822,"Barnes, Arthur",Male,22,in-person,Environmental Sciences,61,41028.80829
+1269,467876,"Mak, Nam",Male,23,online,Mathematics and Statistics,47,27440.24314
+1270,529799,"Cordova, Davena",Female,19,online,Economics and Finance,86,41445.23411
+1271,447650,"Smith, Danielle",Female,20,online,Political Science,89,35643.44008
+1272,658112,"Kunzman, Joshua",Male,25,in-person,Environmental Sciences,66,51552.63966
+1273,450126,"Moore, Dustin",Male,22,in-person,Environmental Sciences,73,46336.96071
+1274,691147,"Her, Darryl",Male,20,in-person,Political Science,64,39086.28914
+1275,580326,"Miyazawa, Matthew",Male,22,in-person,Mathematics and Statistics,68,46062.84287
+1276,585253,"Flores, Nkeonye",Female,22,in-person,Political Science,87,31908.25594
+1277,671898,"Mccullah, Marissa",Female,20,in-person,Political Science,72,26061.58737
+1278,238238,"Prieto Perez, Pamela",Female,20,in-person,Social Sciences,66,41463.21278
+1279,298461,"Patel, Mckinley",Male,24,in-person,Political Science,53,30195.58528
+1280,794662,"Kimble, Fernando",Male,20,in-person,Biology,67,45893.71595
+1281,681749,"Rocha, Urian",Male,21,online,Social Sciences,77,43241.23902
+1282,918625,"Costilla Barrios, Jessica",Female,21,online,Environmental Sciences,87,36838.43802
+1283,145931,"Samuels, Jack",Male,21,online,Economics and Finance,59,30025.74652
+1284,351538,"Alejo, Aphisitt",Male,19,online,Biology,61,41134.36724
+1285,202875,"Franklin, Corey",Male,22,online,Mathematics and Statistics,70,67362.35569
+1286,773320,"Abeyta, Taylor",Male,21,in-person,Environmental Sciences,74,63426.3478
+1287,640129,"Furness, Miguel",Male,26,in-person,Environmental Sciences,79,55191.82065
+1288,848677,"Sanchez, Shivani",Female,20,online,Mathematics and Statistics,47,25082.14482
+1289,927392,"Robinson, Marvin",Male,20,in-person,Economics and Finance,77,45394.0123
+1290,778539,"Truefeather, Austin",Male,21,online,Mathematics and Statistics,49,38817.70155
+1291,367114,"Harris, Aaron",Male,21,in-person,Economics and Finance,94,41623.61592
+1292,463027,"Licon, Nadia",Female,20,online,Economics and Finance,39,40790.06098
+1293,407275,"Rosario, Rie",Female,20,in-person,Economics and Finance,69,39040.71433
+1294,571702,"Prom, Frederick",Male,21,in-person,Mathematics and Statistics,65,66416.6068
+1295,886960,"Mckernan, Taylor",Female,21,online,Political Science,67,46079.66196
+1296,986157,"Martinez, Shane",Male,23,online,Social Sciences,68,58973.79878
+1297,299694,"Freeman, Jose",Male,21,online,Political Science,95,56208.93648
+1298,553535,"Mitchell, Judith",Female,34,online,Mathematics and Statistics,51,32996.38521
+1299,659102,"Barker, Angelo",Male,22,online,Economics and Finance,82,70744.63869
+1300,170052,"Dewitt, Nicolas",Male,18,online,Economics and Finance,79,64592.71068
+1301,870181,"Jackson, Brandon",Male,20,online,Biology,54,47553.09478
+1302,402780,"Tulk, Regan",Female,20,in-person,Social Sciences,73,33463.88449
+1303,482092,"Carlton, Richard",Male,21,in-person,Economics and Finance,80,49900.84249
+1304,544711,"Vasquez, Eduardo",Male,23,online,Mathematics and Statistics,56,34103.23368
+1305,499524,"Sayhouse, Alfredo",Male,19,online,Economics and Finance,62,34964.05908
+1306,783262,"Miller, Elvin",Male,20,online,Political Science,88,51132.67759
+1307,592693,"Bell, Luke",Male,20,online,Political Science,62,45699.25134
+1308,801599,"Dorrance, Zuleyma",Female,19,online,Environmental Sciences,51,30866.1173
+1309,658736,"Cannonier, Dillon",Male,22,online,Biology,91,43379.48381
+1310,933692,"Archuleta, Warren",Male,22,in-person,Biology,85,49317.3985
+1311,177513,"Vang, Vinh",Male,25,in-person,Mathematics and Statistics,72,41670.38903
+1312,124490,"Quach, Hoai-Trung",Male,23,online,Economics and Finance,84,51107.29907
+1313,120195,"Edmond, Albie",Male,26,in-person,Political Science,63,47998.39682
+1314,380792,"Clark, Justin",Male,23,online,Political Science,85,45685.01664
+1315,127478,"Dunbar, Jacob",Male,22,online,Mathematics and Statistics,74,42245.09512
+1316,855623,"Xiong, Brindan",Male,22,online,Biology,68,65353.38112
+1317,927924,"Aashiq, Christian",Male,26,online,Political Science,79,37730.31338
+1318,710898,"Gallegos, Justine",Female,41,in-person,Biology,59,36103.71248
+1319,461770,"Holmes, Alisha",Female,24,in-person,Political Science,44,29543.59877
+1320,854937,"Aguirre, Nichole",Female,21,in-person,Biology,89,43028.07285
+1321,748383,"Meno, Christopher",Male,21,in-person,Biology,79,38182.86915
+1322,721303,"Gutierrez, Phanath",Male,20,online,Environmental Sciences,43,36187.22169
+1323,665770,"Nguyen, Neil",Male,20,in-person,Economics and Finance,94,49766.16166
+1324,988309,"Hammond, Timothy",Male,20,online,Economics and Finance,75,35712.8248
+1325,805925,"Jones, Paul",Male,21,in-person,Environmental Sciences,72,51584.53481
+1326,560004,"Towndrow, Kevin",Male,23,in-person,Mathematics and Statistics,67,57897.6534
+1327,741263,"Kreutz, Rikki",Female,20,online,Mathematics and Statistics,39,28824.82601
+1328,839043,"Spetsas, D'Andre",Male,20,in-person,Economics and Finance,83,65389.89613
+1329,947879,"Neill, Joseph",Male,24,online,Mathematics and Statistics,74,35216.88758
+1330,420992,"Nguyen, Darryl",Male,21,in-person,Social Sciences,59,52335.11136
+1331,292934,"Tran, Alec",Male,22,online,Biology,90,57083.24832
+1332,653023,"Sutton, Catarina",Female,23,in-person,Economics and Finance,47,33974.63196
+1333,820995,"Cohen, Anthony",Male,18,online,Environmental Sciences,67,68324.0096
+1334,461824,"Cazares, Kenitra",Female,22,online,Economics and Finance,54,34299.46323
+1335,416754,"Morgan, Anthony",Male,22,online,Economics and Finance,47,49079.84406
+1336,388525,"Duley, Mariah",Female,20,in-person,Mathematics and Statistics,48,23175.82345
+1337,485019,"Mitchell, Leonel",Male,20,online,Mathematics and Statistics,50,43052.21978
+1338,554629,"Song, Da",Male,18,online,Economics and Finance,88,43295.42155
+1339,680065,"Sky, Duncan",Male,21,online,Biology,90,57994.47274
+1340,540427,"Lara, Narmada",Female,19,in-person,Biology,72,32676.80867
+1341,206222,"Lierman, Benjamin",Male,21,in-person,Political Science,64,32371.50152
+1342,324623,"Chavez, Priscilla",Female,19,online,Mathematics and Statistics,69,37807.10625
+1343,119206,"Nguyen, Lee",Male,23,online,Social Sciences,70,51898.02678
+1344,974017,"Sanchez, Kimphone",Female,24,in-person,Mathematics and Statistics,53,37709.17649
+1345,627900,"Mehrer, Jackelin",Female,20,online,Mathematics and Statistics,81,21281.503
+1346,500986,"Long, Sean",Male,20,online,Political Science,71,45477.97661
+1347,553233,"Munoz, Tashay",Female,20,in-person,Mathematics and Statistics,36,22915.87392
+1348,880649,"Lopez Espinal, Thy Thy",Female,19,online,Political Science,74,46959.94396
+1349,883766,"Le, Karl",Male,18,online,Social Sciences,91,40495.26216
+1350,112287,"Keodara, Ramo",Male,19,in-person,Mathematics and Statistics,55,46075.27427
+1351,618746,"Hudson, Matthew",Male,18,in-person,Environmental Sciences,41,40899.31612
+1352,926192,"Moffitt Lucas, Alberto",Male,25,in-person,Environmental Sciences,61,51206.52279
+1353,444812,"Bowman, Heidi",Female,22,online,Environmental Sciences,60,38134.57404
+1354,373808,"Espinoza, Jazmine",Female,22,online,Economics and Finance,47,28294.23853
+1355,212520,"Brown, James",Male,25,in-person,Environmental Sciences,86,42835.74549
+1356,389953,"Quintana, Emerald",Female,19,in-person,Economics and Finance,57,20336.12153
+1357,474963,"Shumpert, Robert",Male,23,online,Economics and Finance,66,37806.24041
+1358,941786,"Stolley, Cameron",Male,23,in-person,Biology,35,41981.27482
+1359,920751,"Sams, Cristian",Male,24,in-person,Social Sciences,74,41193.70531
+1360,260610,"Carter, Dru",Male,21,in-person,Social Sciences,84,45540.26933
+1361,782222,"Hernandez, Jocilynn",Female,20,in-person,Environmental Sciences,82,40249.48242
+1362,447520,"Geebro, Russell",Male,22,online,Mathematics and Statistics,78,43281.9246
+1363,639871,"Nelson, Kendra",Female,22,online,Political Science,69,32890.65602
+1364,284963,"Ramos, Nicole",Female,20,in-person,Economics and Finance,53,31731.98312
+1365,652653,"Crum, Macy",Male,21,in-person,Economics and Finance,92,39645.70904
+1366,147567,"Konrade, Grace",Female,19,online,Biology,91,46559.12993
+1367,488499,"Bennett, Ashley",Female,29,online,Political Science,51,35583.43344
+1368,673124,"Poudyal, Brendon",Male,21,online,Political Science,49,48426.91185
+1369,318944,"Jimenez, Marissa",Female,22,online,Environmental Sciences,83,45007.18747
+1370,627885,"Wofford, John",Male,23,online,Social Sciences,91,49455.71771
+1371,590147,"Eagle, Henry",Male,19,in-person,Economics and Finance,91,49966.24335
+1372,307893,"Taylor, Lucas",Male,24,in-person,Biology,86,40277.57971
+1373,780968,"Foster-Anderson, Louis",Male,55,online,Environmental Sciences,72,52875.73972
+1374,978641,"Bacon, Nicholas",Male,22,in-person,Mathematics and Statistics,82,46548.1477
+1375,805758,"Schmidt, Wesley",Male,18,online,Economics and Finance,73,40590.53916
+1376,548221,"Temple, Davena",Female,21,online,Environmental Sciences,66,39415.44692
+1377,750403,"Chou, Dwight",Male,23,in-person,Environmental Sciences,91,53051.92513
+1378,258568,"Lockett, Nathan",Male,21,online,Environmental Sciences,57,41594.78235
+1379,153742,"Isbell, Casandra",Female,21,online,Environmental Sciences,68,44709.66952
+1380,290369,"Soyolsaikhan, Olagappan",Male,23,in-person,Social Sciences,68,50350.42033
+1381,299659,"Busak, Curtis",Male,19,online,Economics and Finance,52,39725.70278
+1382,908728,"Conklin, Marcus",Male,21,in-person,Biology,88,45141.11415
+1383,903420,"Josiah, Brandon",Male,21,in-person,Political Science,93,30854.41782
+1384,482355,"Baltierrez, Ebony",Female,18,online,Economics and Finance,92,40964.10746
+1385,641704,"Ishikawa, Brandon",Male,22,online,Biology,46,37976.07387
+1386,156708,"Griffin, Elijah",Male,19,in-person,Economics and Finance,69,42928.9405
+1387,335840,"Cornish, Chandler",Female,21,in-person,Mathematics and Statistics,72,46858.67068
+1388,149335,"Gilmartin, Chaerin",Female,56,online,Political Science,70,34279.01824
+1389,716746,"Parson, Christopher",Male,19,online,Mathematics and Statistics,75,31931.74274
+1390,584494,"Sy, Derrick",Male,23,in-person,Social Sciences,71,58533.49751
+1391,431217,"Morgan, Atraidies",Male,47,in-person,Social Sciences,67,58316.01052
+1392,210741,"Gonzales, Deandranay",Female,20,online,Mathematics and Statistics,56,34686.49258
+1393,117780,"Romero, Tayla",Female,22,online,Economics and Finance,82,38655.82558
+1394,746550,"Hendrix, Adam",Male,20,online,Biology,72,53988.03246
+1395,786487,"Simpson-Brown, Micah",Male,21,online,Social Sciences,88,56147.73311
+1396,308916,"Durham, Moises",Male,21,online,Biology,61,50001.27282
+1397,181221,"Aslami, Joseph Louis",Male,20,online,Mathematics and Statistics,69,41006.01915
+1398,678169,"Barnes, Reed",Female,22,online,Environmental Sciences,44,27455.66092
+1399,403145,"De La Torre Perez, Christine",Female,23,online,Mathematics and Statistics,82,44975.0933
+1400,537342,"Bandreddi, Ezana",Male,22,online,Biology,72,48129.27732
+1401,141917,"West, Christopher",Male,47,online,Social Sciences,49,57480.48312
+1402,478244,"Duffield, Miranda",Female,22,in-person,Environmental Sciences,55,47416.05879
+1403,848785,"Fleshman, Lee",Female,19,in-person,Biology,49,42235.56698
+1404,250771,"Harlan, Ashley",Female,21,online,Social Sciences,64,33901.3568
+1405,314391,"Phan, Dazhean",Male,26,in-person,Biology,70,46452.67436
+1406,303490,"Outhouse, Ishi",Male,18,online,Social Sciences,90,69521.13573
+1407,550241,"Suda, Cory",Male,19,in-person,Environmental Sciences,83,60085.76449
+1408,938711,"Patel, Andrew",Male,23,in-person,Political Science,87,54441.25209
+1409,325636,"Hawley, Jessica",Female,22,online,Biology,77,30972.76399
+1410,147082,"Kanayama, Noah",Male,23,in-person,Social Sciences,79,59798.4239
+1411,336421,"Polson, Jason",Male,20,in-person,Political Science,87,40151.71675
+1412,385335,"Acherkan, Chantel",Female,24,online,Mathematics and Statistics,49,28017.87427
+1413,237477,"Ruvalcaba, Halle",Female,18,online,Biology,54,45141.81278
+1414,503783,"Poledor, Kaylyn",Female,20,online,Mathematics and Statistics,45,21453.99451
+1415,759080,"Buckendorf, Ariana",Female,20,in-person,Biology,65,43064.4653
+1416,292619,"Le, Deondre",Male,23,online,Political Science,81,37135.93025
+1417,315147,"Sparn, Idaly",Female,20,online,Biology,80,29393.59825
+1418,666519,"Venegas, Autumn",Female,22,online,Political Science,83,53632.22382
+1419,303642,"Tidwell, Erin",Female,20,in-person,Mathematics and Statistics,65,42755.31622
+1420,346619,"Tran, Andy",Male,23,online,Social Sciences,70,49528.29047
+1421,777279,"Broker, Dezant",Male,21,online,Mathematics and Statistics,74,36960.79584
+1422,120107,"Rowles, Elias",Male,21,online,Economics and Finance,43,38815.94897
+1423,385899,"Thompson, Elena",Female,20,in-person,Social Sciences,64,31898.84896
+1424,146635,"Esparza, Ladaijah",Female,21,online,Political Science,88,41919.05975
+1425,645865,"Xiong, Joel",Male,22,in-person,Social Sciences,56,29071.65175
+1426,137613,"Martin, Naomi",Female,19,in-person,Environmental Sciences,53,33796.96704
+1427,410212,"Gonzalez, Jazz",Female,20,online,Political Science,82,49769.16984
+1428,909911,"Davis, Manuel",Male,20,in-person,Social Sciences,94,52111.61058
+1429,840940,"Legarde, Dwayne",Male,20,online,Social Sciences,70,40679.82675
+1430,672951,"Lewien, Nbyee",Male,32,online,Political Science,90,53300.02335
+1431,675685,"Gray, Danielle",Female,21,online,Social Sciences,57,37803.78855
+1432,541717,"Gonring, Matthew",Male,19,online,Economics and Finance,71,38993.24336
+1433,337569,"Wybenga, Jordan",Male,20,online,Political Science,78,61819.84592
+1434,651490,"Castillo, Tienkieu",Female,22,online,Mathematics and Statistics,49,31959.17716
+1435,149658,"Hairston, Drew",Male,21,online,Political Science,86,40252.95865
+1436,403046,"Llewellyn, Marisa",Female,25,online,Mathematics and Statistics,76,33318.23329
+1437,408911,"Thomas, Ty",Male,19,online,Mathematics and Statistics,76,48763.23599
+1438,360184,"Tan, Peter",Male,21,online,Economics and Finance,72,49940.00059
+1439,653787,"Tamura, Najee",Male,22,online,Environmental Sciences,93,56216.77893
+1440,363192,"Harris, Tyler",Male,21,online,Political Science,85,60502.36646
+1441,230192,"Aarvold, Cindi",Female,41,online,Political Science,44,23044.39984
+1442,149982,"Xue, Yonathan",Male,20,in-person,Economics and Finance,67,33291.47892
+1443,711273,"Walker, Susie",Female,19,online,Economics and Finance,52,24873.16374
+1444,816777,"Rahman, Rowdy",Male,20,in-person,Social Sciences,71,48710.43154
+1445,322064,"Chavez, Janet",Female,20,online,Biology,80,35833.90469
+1446,849498,"Moon, Aaron",Male,22,in-person,Mathematics and Statistics,53,30554.73486
+1447,606478,"Loneeagle, Daniel",Male,22,online,Environmental Sciences,74,48747.96861
+1448,490684,"Tootle, Zachary",Male,22,online,Social Sciences,73,48445.14113
+1449,622310,"Casias, Tyler",Female,23,online,Economics and Finance,81,50233.98463
+1450,346434,"Alvarez, Jessica",Female,20,online,Political Science,66,32536.23681
+1451,862703,"Dillon, Joslyn",Female,22,online,Biology,59,30447.87237
+1452,242874,"Martinez, Jasmine",Female,20,online,Mathematics and Statistics,56,37712.89447
+1453,869741,"Fu, Wayne",Male,19,online,Economics and Finance,95,59885.00012
+1454,709085,"Harrell, Janet",Female,19,in-person,Economics and Finance,40,26089.71721
+1455,599603,"Buhl, Amber",Female,20,online,Economics and Finance,58,37634.1613
+1456,962984,"Islamzai, Joshua",Male,19,online,Environmental Sciences,66,65956.82189
+1457,969621,"Hewat, Alexxis",Female,19,online,Economics and Finance,46,26253.70748
+1458,183618,"Woolfolk, Andrew",Male,26,online,Economics and Finance,77,75530.38563
+1459,935907,"Martinez, Sheldon",Male,20,in-person,Environmental Sciences,77,53905.96363
+1460,394865,"Alvarado, Carolyn",Female,22,online,Biology,90,36984.60232
+1461,504695,"Hill, Eduardo",Male,21,online,Environmental Sciences,40,34462.50761
+1462,725129,"Lewis, Jeffery",Male,24,online,Economics and Finance,54,44923.88591
+1463,712785,"Jumpe, Damion",Male,21,in-person,Social Sciences,83,53086.63097
+1464,593670,"Brossart, Melissa",Female,19,online,Economics and Finance,50,20223.34086
+1465,815796,"Do, Alan",Male,23,online,Political Science,86,43190.19697
+1466,349393,"Souther, Louisiana",Female,24,in-person,Mathematics and Statistics,83,37396.5711
+1467,647319,"Spalding, Devan",Female,26,online,Economics and Finance,74,31025.94829
+1468,395089,"Drakeford, Jacob",Male,21,in-person,Political Science,73,57479.75785
+1469,137980,"Chan, Rio",Male,24,online,Political Science,70,40637.39521
+1470,867829,"Hernandez, Nadira",Female,21,online,Environmental Sciences,60,35145.79146
+1471,122485,"Ramirez, Samantha",Female,21,in-person,Biology,55,33648.37545
+1472,256884,"Salazar, Shania",Female,21,online,Biology,72,29555.93689
+1473,386171,"Lee, Tommy",Male,22,online,Mathematics and Statistics,84,55794.58278
+1474,167174,"Lichty, Alexandra",Female,23,online,Social Sciences,94,45511.57112
+1475,303965,"Hockaday, Sa'Vannah",Female,24,online,Mathematics and Statistics,82,42995.88798
+1476,510347,"Aragon, Sharron",Female,20,online,Political Science,78,30042.73682
+1477,585068,"Tran, Cidney",Male,25,online,Economics and Finance,56,36015.89082
+1478,838916,"Perez, Cuong",Male,19,online,Political Science,70,54885.28547
+1479,956590,"Herrera, Natasha",Female,24,in-person,Economics and Finance,79,46025.53693
+1480,378622,"Sharp, Michael",Male,21,online,Mathematics and Statistics,71,44618.9726
+1481,160166,"Seng, Maxwell",Male,23,online,Mathematics and Statistics,76,51513.53842
+1482,300124,"Moore, Esteban",Male,20,online,Social Sciences,76,58683.51872
+1483,953150,"Mitsuhashi, Cameron",Male,21,online,Environmental Sciences,64,39900.29481
+1484,901338,"Markow, Danielle",Female,19,in-person,Social Sciences,54,44334.98519
+1485,444615,"Nystrom, Selena",Female,23,online,Political Science,50,36601.07958
+1486,127329,"Asad, Franklin",Male,59,in-person,Social Sciences,73,64052.1951
+1487,187942,"Velazquez Martinez, Brigitte",Female,20,online,Biology,90,41374.54103
+1488,751742,"Sanchez, Hailey",Female,22,online,Mathematics and Statistics,80,34347.31307
+1489,599891,"Lee, Aren",Male,20,in-person,Environmental Sciences,61,49229.35336
+1490,977913,"Casalini, Nicho",Male,22,online,Economics and Finance,74,40826.44775
+1491,431419,"Uzor, Anthony",Male,22,in-person,Political Science,67,51401.33122
+1492,330295,"Ross, Randall",Male,22,online,Mathematics and Statistics,68,37542.42627
+1493,523453,"Warren, Dennis",Male,22,online,Social Sciences,94,66365.12731
+1494,239313,"Mariscal, Kaleigh",Female,21,online,Environmental Sciences,58,33955.21418
+1495,118214,"Ayala, Kazoua",Female,18,in-person,Political Science,77,46575.08113
+1496,760133,"Jenkins, Benjamin",Male,21,online,Economics and Finance,74,68576.68656
+1497,841869,"Digby, Jacob",Male,20,in-person,Social Sciences,89,47977.18725
+1498,308011,"Wong, Marquise",Male,18,in-person,Economics and Finance,73,52238.89879
+1499,748859,"Goolsby, Diego",Male,19,online,Political Science,77,47385.20507
+1500,127622,"Moore, Maeselle",Female,20,online,Biology,54,30327.48519
+1501,605405,"Huff, Wesley",Male,23,in-person,Mathematics and Statistics,78,45369.55993
+1502,467783,"Chen, Tad",Male,22,online,Economics and Finance,81,49863.9024
+1503,917243,"Gonzales, Carolyn",Female,22,in-person,Mathematics and Statistics,56,24355.95244
+1504,433714,"Khalidov, Alex",Male,20,online,Economics and Finance,80,39199.1059
+1505,733312,"Ta, Darius",Male,22,in-person,Environmental Sciences,33,44517.47406
+1506,812904,"Iranfar, Whitney",Female,21,in-person,Social Sciences,58,28555.67784
+1507,646812,"Belt, Ashley",Female,23,online,Environmental Sciences,54,37644.86654
+1508,525752,"Reeves, Uriah",Male,19,online,Mathematics and Statistics,65,40498.29963
+1509,162614,"Calerich, Vanessa",Female,23,online,Economics and Finance,48,34144.87573
+1510,149164,"Jefferson, Francisco",Male,22,online,Biology,92,58024.40176
+1511,117944,"Dorsey, Ryan",Male,23,online,Biology,71,56975.03642
+1512,355779,"Hofmann, Maria",Female,20,online,Mathematics and Statistics,68,43284.17184
+1513,254608,"Reeves, Christian",Male,21,online,Social Sciences,96,42084.25547
+1514,648615,"Martinez, Gabriela",Female,20,online,Political Science,86,54590.09034
+1515,580247,"Alire, Coyote-Cache",Male,21,in-person,Environmental Sciences,49,40137.80003
+1516,361363,"Ho, Janari",Male,21,online,Environmental Sciences,89,44503.61241
+1517,240675,"Newbury, Oyate",Male,22,in-person,Social Sciences,60,54404.83541
+1518,560139,"Tizon, Dante",Male,21,in-person,Social Sciences,79,43181.70886
+1519,743559,"Sanchez, Stephanie",Female,22,online,Political Science,95,40466.69455
+1520,147345,"Bonton, Andrew",Male,25,online,Social Sciences,77,60958.21349
+1521,657088,"Rivera, Sanjana",Female,20,online,Environmental Sciences,78,35082.323
+1522,195794,"Nguyen, Adrian",Male,40,online,Economics and Finance,55,45852.63737
+1523,809992,"Lastrella, Daryahn",Male,23,online,Economics and Finance,90,49672.61226
+1524,131982,"Gallegos, Raven",Female,55,online,Economics and Finance,88,41247.5699
+1525,517485,"Black, Cynthia",Female,21,online,Political Science,87,26489.30624
+1526,367478,"Anderson, Michael",Male,21,in-person,Biology,75,38075.26284
+1527,479897,"Than, Sean",Male,22,online,Economics and Finance,87,53575.58092
+1528,771880,"Ishizuki, Solomon",Male,22,in-person,Social Sciences,90,46625.11116
+1529,263554,"Gemeda, Asashia",Female,25,in-person,Political Science,79,36377.39393
+1530,653219,"Kim, Zsakkar",Male,24,online,Mathematics and Statistics,37,41093.03288
+1531,512012,"Smith, Savannah",Female,19,online,Environmental Sciences,81,44828.80865
+1532,208560,"Berrien, Jarred",Male,19,online,Social Sciences,66,42854.58019
+1533,697069,"Silva, Ishmael",Male,23,online,Social Sciences,80,44151.2529
+1534,974202,"Rodriguez, Keviyonna",Female,22,online,Economics and Finance,38,33565.73896
+1535,211557,"Hartfield, Zachary",Male,22,in-person,Political Science,86,48393.19056
+1536,355125,"Lovato, Razzia",Female,21,in-person,Political Science,76,63154.33225
+1537,877191,"Sharrar, Jordan",Female,21,in-person,Economics and Finance,84,34398.15416
+1538,473951,"Guerette, Shawn",Male,22,in-person,Economics and Finance,86,45797.36622
+1539,969141,"Vasquez, Gregory",Male,21,in-person,Social Sciences,71,50732.37162
+1540,783567,"Yambao, Patrick",Male,39,online,Social Sciences,92,51907.27065
+1541,459508,"Muwanga, Mariah",Female,20,in-person,Mathematics and Statistics,47,24288.80828
+1542,243951,"Candelario, Jennifer",Female,23,online,Social Sciences,79,56110.42814
+1543,362068,"Graham, Nino",Male,19,online,Economics and Finance,91,51715.69491
+1544,362891,"Davis, Gerardo",Male,21,online,Biology,43,28098.74637
+1545,365650,"Ramirez, Jazzmine",Female,26,online,Environmental Sciences,83,44487.22841
+1546,298512,"Lewis, Fidel",Male,18,online,Biology,75,36031.24722
+1547,665548,"Loya, Jhana",Female,19,online,Social Sciences,58,26265.34574
+1548,355955,"Nalla, Joshua",Male,40,in-person,Environmental Sciences,59,49103.71669
+1549,485217,"Lopez, Taylor",Male,22,online,Political Science,66,49525.19765
+1550,931476,"Feltz, Angel",Male,19,online,Political Science,89,67379.49375
+1551,755520,"Singh, Ross",Male,22,online,Political Science,71,55623.29642
+1552,337893,"Lim, Domenic",Male,21,in-person,Social Sciences,58,38296.16185
+1553,712519,"Xiong, Haseeb",Male,19,in-person,Biology,53,48772.66215
+1554,199151,"Allen, Brandon",Male,25,in-person,Social Sciences,71,39830.88252
+1555,555113,"Medicine Blanket, Orson",Male,21,online,Biology,56,45355.23086
+1556,640804,"Kamath, Tavien",Male,22,online,Political Science,72,34054.64039
+1557,914981,"Stirmers, Uriah",Male,23,in-person,Environmental Sciences,74,50670.71403
+1558,468079,"Velazquez, Ngoc",Female,20,in-person,Mathematics and Statistics,52,38159.56134
+1559,635788,"Adams, Walter",Male,22,online,Biology,47,33318.30457
+1560,287632,"Williams, Levi",Male,21,online,Political Science,69,42054.72994
+1561,222331,"Saenz, Brittany",Female,21,online,Environmental Sciences,46,27884.85499
+1562,635475,"Lee, Trent",Male,20,in-person,Social Sciences,57,46578.71272
+1563,165181,"Thorpe, Colin",Male,21,in-person,Economics and Finance,89,35258.98358
+1564,915805,"Joseph, Adriel",Male,24,online,Biology,85,50474.56517
+1565,664183,"Vang, Benjamin",Male,44,online,Social Sciences,73,47360.78293
+1566,387041,"James, Annalee",Female,19,online,Biology,70,29538.80082
+1567,740360,"Portillo G, Jasleen",Female,18,in-person,Biology,58,51975.48306
+1568,952909,"Gentry, Tyler",Male,22,online,Environmental Sciences,90,55938.63945
+1569,984942,"Supinski, Darby",Female,23,online,Environmental Sciences,50,28506.10855
+1570,778562,"Gomez, Dreanna",Female,23,online,Economics and Finance,45,27507.42631
+1571,541466,"Shelmire, Alyssa",Female,23,online,Mathematics and Statistics,80,38155.90835
+1572,922109,"Yang, Patrick",Male,22,in-person,Political Science,73,54022.73737
+1573,165588,"Mckeown-Drialo, Kenny",Male,56,online,Political Science,77,53485.50589
+1574,830267,"Santarosa, Michael",Male,21,in-person,Biology,56,37075.77619
+1575,728075,"Keith, Thomas",Male,22,online,Environmental Sciences,87,41265.26403
+1576,414978,"Regalado, Karina",Female,20,online,Biology,46,26710.79146
+1577,329870,"Pham, Vidath",Male,22,online,Economics and Finance,45,39634.22711
+1578,797044,"Cauley, Guadalupe",Female,22,online,Social Sciences,75,34840.97433
+1579,827698,"Shahi, Keane",Male,21,online,Economics and Finance,36,24315.05925
+1580,518346,"Mendoza, Briona",Female,23,online,Biology,39,26291.32302
+1581,373778,"Gallegos, Brianna",Female,22,online,Biology,88,45017.37392
+1582,151998,"Heimann, Orion",Male,51,online,Environmental Sciences,50,35727.41282
+1583,552529,"Long, Richee",Male,22,in-person,Mathematics and Statistics,73,35564.0409
+1584,968225,"Tran, Dylan",Male,20,online,Mathematics and Statistics,70,44651.21782
+1585,632987,"Hoffpauir, Theodis",Male,20,in-person,Social Sciences,63,48036.54779
+1586,953930,"Jaimes, Alysha",Female,19,online,Political Science,86,42742.79185
+1587,135031,"Nunez, Hillary",Female,21,online,Economics and Finance,53,39204.67334
+1588,183681,"Chu, Kwang",Male,25,online,Economics and Finance,83,49322.92839
+1589,237474,"Saravanan, Matthew",Male,19,in-person,Economics and Finance,88,41950.103
+1590,672001,"Perry, Hope",Female,22,online,Social Sciences,87,45042.30058
+1591,941219,"Davis Jr, Deanna",Female,23,online,Economics and Finance,77,49716.08996
+1592,805397,"King, Jerrica",Female,19,online,Political Science,50,30461.9908
+1593,859275,"Wyatt, Brooke",Female,19,in-person,Social Sciences,78,39939.49943
+1594,403577,"Hendrix, Joshua",Male,55,online,Environmental Sciences,57,50765.31994
+1595,960743,"Hood, Dlisa",Female,22,online,Biology,71,32884.3786
+1596,518639,"Truitt, Christopher",Male,19,in-person,Social Sciences,80,34664.57999
+1597,529677,"Sudendra, Frank",Male,19,online,Social Sciences,78,30853.20719
+1598,422251,"Jackson, Colton",Male,21,online,Social Sciences,51,58614.71954
+1599,217013,"Lenker, Gabrielle",Female,19,in-person,Social Sciences,59,27686.08064
+1600,307045,"Doyle, Nidesh",Male,22,in-person,Political Science,73,46950.25198
+1601,631079,"Gee-Taylor, Carlo",Male,19,in-person,Social Sciences,76,46910.33749
+1602,956508,"Weaver, Braedon",Male,22,in-person,Social Sciences,85,52997.80195
+1603,232341,"Lowe, Llewelgene",Male,19,in-person,Environmental Sciences,86,36558.48708
+1604,266916,"Diaz, Carmen",Female,20,in-person,Mathematics and Statistics,81,43246.98294
+1605,836309,"Mars, Caleb",Male,21,in-person,Social Sciences,77,46833.99851
+1606,320119,"Demmer-White, Gilbert",Male,19,online,Biology,56,14081.09871
+1607,221190,"Glommen, Danelle",Female,19,in-person,Mathematics and Statistics,73,35353.25946
+1608,151449,"Kolanowski, Johnna",Female,19,online,Mathematics and Statistics,56,39467.88316
+1609,130608,"Torres Acosta, Marisa",Female,26,online,Biology,53,38512.63134
+1610,877534,"Walton, Devon",Male,21,in-person,Mathematics and Statistics,85,40934.06357
+1611,159390,"Sanchez, Clintasia",Female,25,in-person,Political Science,81,47227.08298
+1612,492535,"Mcneil, Hernan",Male,23,online,Social Sciences,74,46446.95929
+1613,797914,"Chavez, Marcus",Male,21,online,Social Sciences,86,36797.79246
+1614,870854,"Aldava, Classie",Female,22,in-person,Economics and Finance,76,41727.90328
+1615,135501,"Tran, Dong",Male,25,online,Social Sciences,65,39765.06147
+1616,484334,"Pico, Sidney",Male,27,in-person,Mathematics and Statistics,70,40719.79525
+1617,716939,"Grantham, Angelica",Female,26,in-person,Political Science,92,48830.7323
+1618,259484,"Yarbrough, Jose",Male,23,online,Economics and Finance,89,60177.53783
+1619,885894,"Moy, Alexander",Male,22,online,Political Science,79,50533.83751
+1620,328026,"Rudd, Jasmine",Female,20,online,Social Sciences,71,33318.22653
+1621,943606,"Sardello, Kourtni",Female,19,online,Political Science,76,40447.78416
+1622,966520,"Huntington, Salvatore",Male,21,in-person,Environmental Sciences,57,62038.35297
+1623,471485,"Sisa, Hugo",Male,24,online,Mathematics and Statistics,89,47411.78912
+1624,353866,"Martin, Victoria",Female,19,online,Environmental Sciences,47,22901.28089
+1625,456353,"Enriquez Lafebre, Rochanda",Female,60,in-person,Political Science,63,53565.89762
+1626,387528,"Feng, Kevin",Male,24,online,Biology,90,48230.52783
+1627,347906,"Smith, Patrick",Male,23,in-person,Environmental Sciences,86,68985.59811
+1628,195357,"Oakes, Yesica",Female,63,online,Economics and Finance,48,32103.91396
+1629,114130,"Morales, Andy",Male,23,online,Mathematics and Statistics,75,50342.21241
+1630,260327,"Sawyer, Michael",Male,20,in-person,Environmental Sciences,85,54234.84892
+1631,183646,"Williams, Christopher",Male,20,online,Economics and Finance,69,53470.06457
+1632,564354,"Pallan, Derek",Male,25,online,Political Science,49,36758.02055
+1633,303854,"Charlie, Devin",Male,25,online,Biology,46,35929.52307
+1634,747705,"Tewelde, Selena",Female,21,online,Mathematics and Statistics,44,32556.75871
+1635,307406,"Ha, Edmond",Male,21,in-person,Economics and Finance,46,30038.21786
+1636,487057,"Pope, Alexandra",Female,19,online,Biology,48,25782.02
+1637,287337,"Pyles, Ruben",Male,56,online,Political Science,89,54595.39574
+1638,922201,"Delgado, Anna",Female,21,in-person,Political Science,62,43807.59238
+1639,492518,"Doud, Michelle",Female,21,online,Political Science,65,36969.78829
+1640,383496,"Orozco-Word, Mariadelcarmen",Female,41,in-person,Economics and Finance,53,30911.36097
+1641,280376,"Lee, Jose",Male,21,in-person,Environmental Sciences,90,68980.28115
+1642,254487,"Garcia, Simran",Female,20,online,Economics and Finance,64,32655.82463
+1643,203143,"Aguilar, Zoe",Female,18,online,Mathematics and Statistics,64,47596.60773
+1644,639881,"Johnson, Victor",Male,21,online,Environmental Sciences,65,51708.81392
+1645,437808,"Johnson, Ryan",Male,23,online,Political Science,88,49406.77509
+1646,834618,"Lamorie, Abigail",Female,24,online,Economics and Finance,60,28711.7134
+1647,529140,"Hai, Phoutthasinh",Male,19,online,Social Sciences,95,46348.55883
+1648,389040,"Flores-Ladas, Tyieshia",Female,23,online,Political Science,71,38476.91567
+1649,718129,"Casares, Kitty",Female,21,in-person,Environmental Sciences,76,35930.28718
+1650,295453,"Brown, Matthew",Male,19,online,Biology,91,53116.83645
+1651,689123,"Simpson, Romeo",Male,23,in-person,Social Sciences,52,28783.84467
+1652,547232,"Watanabe, Maurice",Male,24,online,Economics and Finance,76,40894.89823
+1653,494080,"Villani, Jacob",Male,19,online,Social Sciences,87,44295.98545
+1654,813705,"Kuot Moody, Steven",Male,20,online,Biology,54,36856.27919
+1655,511043,"Corona Ibarra, Mary",Female,21,in-person,Biology,74,39623.56836
+1656,950063,"Davidson, Shelby",Female,19,in-person,Political Science,72,29321.81134
+1657,803072,"Perryman, Ana",Female,21,online,Political Science,76,41035.02319
+1658,181965,"Reed, Cody",Male,23,online,Social Sciences,67,36781.29734
+1659,555776,"Van, Hugh",Male,19,in-person,Social Sciences,80,36929.50731
+1660,823166,"Song, Demetrius",Male,23,in-person,Biology,68,44766.72386
+1661,684695,"Hsu, Stefan",Male,61,in-person,Mathematics and Statistics,63,57765.70759
+1662,334935,"Pannotayan, Daniel",Male,19,online,Social Sciences,92,46328.7049
+1663,519924,"Robinson, Jonathan",Male,18,online,Biology,69,39994.14221
+1664,130683,"Fletcher-Pettis, Grayden",Male,22,online,Political Science,63,56261.95399
+1665,857556,"Ouk, Edwin",Male,23,in-person,Biology,49,38082.58337
+1666,492812,"Gallegos, Kathryn",Female,18,online,Mathematics and Statistics,58,29550.7916
+1667,427905,"Wu, Anthony",Male,20,online,Social Sciences,68,55056.01612
+1668,450846,"Ramirez, Rebecca",Female,21,online,Economics and Finance,80,48089.85329
+1669,243448,"Mccasland, Laurel",Female,27,online,Mathematics and Statistics,64,32038.03264
+1670,783293,"Craven, Salvador",Male,21,online,Biology,43,30365.70963
+1671,483258,"Nguyen, Jude",Male,20,online,Political Science,70,49220.86576
+1672,227831,"Wadsworth, Alvaro",Male,22,in-person,Environmental Sciences,52,30638.37092
+1673,498623,"Meza Haro, Emilia",Female,22,online,Social Sciences,52,30395.29749
+1674,583767,"Shelley, Leslie",Female,19,online,Environmental Sciences,58,25607.82079
+1675,507271,"Everett, Christina",Female,20,online,Mathematics and Statistics,44,36032.46063
+1676,844385,"Rem, Michael",Male,21,in-person,Environmental Sciences,81,58511.54873
+1677,500494,"Chen, Kenji",Male,22,online,Political Science,52,24819.14294
+1678,251170,"Castro Manibusan, Vizier",Male,22,online,Political Science,61,53205.78752
+1679,221069,"Pyykkonen, Anaissa",Female,23,online,Political Science,46,35746.22035
+1680,144309,"Stevens, Tyler",Male,24,online,Biology,74,40987.51579
+1681,644178,"Yu, Joshua",Male,22,online,Economics and Finance,70,41627.1209
+1682,727517,"Lopez, Sabrina",Female,24,online,Environmental Sciences,71,49340.01328
+1683,667141,"Dawson, Spencer",Male,23,online,Social Sciences,70,50347.466
+1684,948456,"Smith, Jesse",Male,20,in-person,Economics and Finance,59,41386.80089
+1685,111742,"Hope, Ian",Male,23,online,Environmental Sciences,72,46778.79353
+1686,299940,"Howlette III, Dylan",Male,23,online,Mathematics and Statistics,65,43925.07972
+1687,595874,"Mancinas, April",Female,22,in-person,Mathematics and Statistics,60,23849.32402
+1688,903936,"Banchongchith, Christian",Male,23,in-person,Mathematics and Statistics,69,41878.59507
+1689,878293,"David, Collin",Male,18,online,Economics and Finance,93,54145.98421
+1690,952558,"Shrestha, Dashun",Male,21,online,Economics and Finance,83,50164.01044
+1691,885855,"Angelo, Edwin",Male,52,online,Environmental Sciences,68,58568.91908
+1692,262252,"Guerrero-Mendoza, Kiera",Female,18,in-person,Political Science,77,32966.9137
+1693,224965,"Upchurch, Dakota",Male,23,online,Social Sciences,70,57403.47717
+1694,452087,"Atkinson, Brittany",Female,20,online,Environmental Sciences,56,30617.08188
+1695,680715,"Chavarria, Russell",Male,22,in-person,Economics and Finance,88,48380.89957
+1696,542838,"Costa, Jonathan",Male,23,online,Social Sciences,76,32835.09584
+1697,394142,"Castaneda, Daniel",Male,21,in-person,Social Sciences,76,44874.86232
+1698,415197,"Gonring, Artem",Male,23,online,Social Sciences,63,41555.68023
+1699,499198,"Martinez, Angel",Male,21,online,Environmental Sciences,77,39092.53699
+1700,987569,"Rivera, Amalia",Female,20,in-person,Social Sciences,59,23391.64004
+1701,494589,"Kalhorn, Ermias",Male,21,online,Social Sciences,93,48102.53104
+1702,935999,"May, Jasmine",Female,23,online,Social Sciences,75,33362.65241
+1703,955785,"Carroll, Marco",Male,21,online,Economics and Finance,79,45277.32161
+1704,417534,"Sufian, Bianca",Female,22,online,Biology,55,22652.15099
+1705,551154,"Ward, Alex",Male,32,online,Political Science,83,52645.28448
+1706,115001,"Thomas, Jana",Female,19,online,Social Sciences,61,36040.20735
+1707,823214,"Williams, Jerrick",Male,21,in-person,Economics and Finance,89,53314.99498
+1708,869910,"Relaford, Alexandra",Female,22,in-person,Social Sciences,54,29934.00939
+1709,266701,"Ranson, Austin",Male,24,in-person,Environmental Sciences,63,39052.77015
+1710,988513,"Pulliam, Austin",Male,50,online,Economics and Finance,85,44822.052
+1711,406538,"Ramirez, Jasmine",Female,19,in-person,Environmental Sciences,72,48935.74115
+1712,234359,"Gonzalez, Lyly",Female,21,online,Economics and Finance,81,40778.37525
+1713,295696,"Haddock, Pavit",Male,22,online,Social Sciences,74,31822.60265
+1714,451863,"Ferrell Sturlaugson, Jarett",Male,20,in-person,Social Sciences,87,58110.74705
+1715,708393,"Canada Jr, Stephen",Male,21,in-person,Political Science,55,36348.38069
+1716,795889,"Walker, Noel",Male,23,in-person,Social Sciences,78,45426.25
+1717,374737,"Johnson, Katherine",Female,19,online,Economics and Finance,91,36708.23711
+1718,637390,"Jones-Quintana, Jonathan",Male,26,online,Environmental Sciences,67,65422.04962
+1719,573666,"La, Antonio",Male,20,in-person,Mathematics and Statistics,71,42217.08519
+1720,615026,"Char, Darius",Male,23,in-person,Social Sciences,76,42090.61653
+1721,207120,"Williams, James",Male,22,online,Mathematics and Statistics,63,46886.9353
+1722,131152,"Tan, Ronald",Male,20,online,Mathematics and Statistics,64,29999.35187
+1723,318112,"Faxon, Mariah",Female,24,online,Environmental Sciences,82,40995.69762
+1724,380980,"Stoffel, Paola",Female,24,in-person,Social Sciences,67,32488.97969
+1725,474850,"Vargas, Daria",Female,20,online,Social Sciences,71,29675.84394
+1726,536628,"Park, George",Male,20,online,Political Science,66,56532.11849
+1727,197564,"Nguyen, Eric",Male,19,in-person,Political Science,88,44367.34382
+1728,378845,"Judson, Janneth",Female,22,online,Political Science,77,33305.36083
+1729,169340,"Arreola-Arreola, Martha",Female,19,in-person,Social Sciences,55,28321.35307
+1730,618417,"Bowman, Arturo",Male,23,online,Environmental Sciences,74,47310.78984
+1731,804834,"Liberatore, Haileigh",Female,19,in-person,Biology,38,23039.80161
+1732,676841,"Redfern, Matthew",Male,21,online,Mathematics and Statistics,73,42545.82742
+1733,255468,"Pannell, Ashley",Female,22,in-person,Mathematics and Statistics,55,23961.68748
+1734,875457,"Medrano, Gi Joo",Female,19,online,Economics and Finance,73,33472.28144
+1735,610425,"Butler, Cody",Male,23,in-person,Environmental Sciences,59,26897.66202
+1736,201984,"Manlove, Andrew",Male,21,online,Social Sciences,61,51050.36066
+1737,643787,"Groves, Marsean",Male,18,online,Economics and Finance,75,64548.11004
+1738,784413,"Lovett, Javier",Male,21,online,Social Sciences,61,64050.00926
+1739,579499,"Ahn, Gabriel",Male,23,online,Social Sciences,91,46139.353
+1740,565624,"Nguyen, Van",Male,19,online,Political Science,80,30276.0621
+1741,668585,"Parham, Alicia",Female,20,online,Economics and Finance,40,33077.8687
+1742,834619,"Vigil, Jasmine",Female,21,online,Social Sciences,76,53973.05863
+1743,473948,"Woods, Juan",Male,19,in-person,Social Sciences,76,73980.21462
+1744,137719,"Poe, Hoang",Male,23,online,Mathematics and Statistics,84,43964.70403
+1745,879876,"Ament, Walter",Male,21,online,Social Sciences,78,44467.70153
+1746,312855,"Kim, Christopher",Male,22,in-person,Social Sciences,81,60187.9547
+1747,323028,"Apparasu, Elijah",Male,23,online,Mathematics and Statistics,70,44358.89951
+1748,329855,"Jones, Angel",Female,22,online,Economics and Finance,40,32342.95721
+1749,205242,"Hill, Anissa",Female,21,in-person,Political Science,86,33259.70308
+1750,643038,"Marler, Jalen",Male,24,online,Social Sciences,77,41028.24134
+1751,818044,"Her, Joshua",Male,22,in-person,Social Sciences,71,36750.08713
+1752,540967,"Ngo, Preston",Male,23,online,Political Science,46,40112.04183
+1753,413207,"Bernhard, Estela",Female,19,online,Biology,59,45900.13446
